@@ -3,26 +3,21 @@
         {
             "name": "POSTER DE FREE FIRE",
             
-            "link": "https://www.google.com/"
-        },
-        {
-            "name": "POSTER FREE 2X1",
-            
-            "link": "https://www.google.com/"
+            "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/free-fire/FREEFIRE-A4.pdf"
         }
     ]},
     {"PUBG MOBILE":[
         {
             "name": "POSTER DE PUBG MOBILE",
             
-            "link": "https://www.google.com/"
+            "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/pubgm/pubgmA4.pdf"
         }
     ]},
     {"Call of Duty: Mobile":[
         {
-            "name": "POSTER CODM",
+            "name": "POSTER Call of Duty",
             
-            "link": "https://www.google.com/"
+            "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/cod-mobile/codm-A4.pdf"
         }
     ]}
 ]
