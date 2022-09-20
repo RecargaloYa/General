@@ -13,7 +13,7 @@
          }
         
      ]},
-    {"Free Fire":[
+    {"Recargas de Juegos":[
        {
             "name": "POSTER DE Free Fire",
             "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/free-fire/freefire1-A4.jpg"
@@ -21,18 +21,21 @@
        {
             "name": "POSTER DE Free Fire",
             "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/free-fire/freefire2-A4.jpg"
-        }
-    ]},
-    {"PUBG MOBILE":[
+        },
         {
             "name": "POSTER DE PUBG MOBILE",
             "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/pubgm/pubgm1-A4.jpg"
-        }
-    ]},
-    {"Call of Duty: Mobile":[
+        },
         {
             "name": "POSTER Call of Duty",
             "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/cod-mobile/codm1-A4.jpg"
         }
-    ]}
+    ]},
+    {"Tarjetas/Pines":[
+        {
+             "name": "Tarjetas de Regalo",
+             "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/tarjetas/tarjetas1-A4.jpg"
+         }
+        
+     ]}
 ]
