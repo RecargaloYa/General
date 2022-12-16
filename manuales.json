@@ -14,10 +14,14 @@
          }
         
      ]},
-     {"Criptomoneda":[
+     {"Otros":[
         {
              "name": "POSTER DE Venta USDT",
              "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/cripto/usdt1-A4.jpg"
+         },
+         {
+             "name": "POSTER DE MAGISTV",
+             "link": "https://raw.githubusercontent.com/RecargaloYa/Advertising/main/magistv/magistv1-A4.jpg"
          }
         
      ]},
