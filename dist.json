@@ -1,6 +1,7 @@
 [
     {
         "id": "0932079239",
+        "rango":"Distribuidor",
         "name": "VELOZ PAZMIÑO JOFFRE ANDRES",
         "foto": "",
         "ModeDist": "Solo Online",
@@ -11,12 +12,10 @@
         "CrearMontoEnviar": "10.00",
         "ObliContrato": "NO",
         "SubDists":
-        [
             {
                 "0":"NO AUTORIZADO",
                 "1":"NO AUTORIZADO"
-            }
-        ],
+            },
         "FechaInicio":"01/12/2019",
         "FechaFin":"01/12/2025",
         "Observacion":"NINGUNA"
