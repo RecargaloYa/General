@@ -334,6 +334,10 @@
             {
                 "descripcion": "Despues, imprima el comprobante y entregar al cliente.",
                 "imagen": "/manual/freefire5.png"
+            },
+            {
+                "descripcion": "Ingresar a https://www.ememu03.net/",
+                "video":"https://www.youtube.com/watch?v=n-1Rmq7X_EI"
             }
         ],
         "nota1": "Al cliente le llegara la cuenta en aproximadamente 60 minutos.*",
