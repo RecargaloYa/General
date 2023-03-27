@@ -19,6 +19,26 @@
         "FechaInicio":"01/12/2019",
         "FechaFin":"01/12/2025",
         "Observacion":"Excelente Distribuidor"
+    },
+    {
+        "id": "0802238576",
+        "rango":"Distribuidor",
+        "name": "GARCIA REALPE RAQUEL JUDIT",
+        "foto": "https://raw.githubusercontent.com/RecargaloYa/General/main/dist-img/0802238576.jpeg",
+        "ModeDist": "Solo Online",
+        "ObliMonto": "20.00",
+        "ObliPublicidad": "NO",
+        "ObliAsesoria": "NO",
+        "AutoriImpre": "NO",
+        "CrearMontoEnviar": "10.00",
+        "ObliContrato": "NO",
+        "SubDists":
+            {
+                "0":"NO AUTORIZADO"
+            },
+        "FechaInicio":"27/03/2023",
+        "FechaFin":"27/03/2024",
+        "Observacion":"NINGUNA"
     }
   
 ]
