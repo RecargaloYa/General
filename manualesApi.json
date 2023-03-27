@@ -400,6 +400,34 @@
                 "imagen": "/manual/magistv7.png"
             }
         ]
+    },
+    {
+        "slug": "servicio-basico",
+        "title": "Manual - Servicio Básico",
+        "titulopaso1": "1.- Pasos para pagar un Servicio Básico:",
+        "pasos1":
+        [
+            {
+                "descripcion": "Selecciona el servicio que desea pagar haciendo clic en él.",
+                "imagen": "/manual/serviciob1.png"
+            },
+            {
+                "descripcion": "Buscar el convenio a pagar.",
+                "imagen": "/manual/serviciob2.png"
+            },
+            {
+                "descripcion": "Ingresar la referencia proporcionada por el cliente, consultamos y pagamos.",
+                "imagen": "/manual/serviciob3.png"
+            },
+            {
+                "descripcion": "Haz clic en el botón 'Ver detalles'.",
+                "imagen": "/manual/freefire4.png"
+            },
+            {
+                "descripcion": "Despues, imprima el comprobante y entregar al cliente.",
+                "imagen": "/manual/freefire5.png"
+            }
+        ]
     }
   
 ]
