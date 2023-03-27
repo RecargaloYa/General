@@ -147,7 +147,7 @@
                 [   
                     {
                         "titulo": "1.- Pasos para vender diamantes de Mobile Legends: Bang Bang:",
-                        "nota": "Al cliente le llegara los UC en aproximadamente 60 minutos.*"
+                        "nota": "Al cliente le llegara los diamantes en aproximadamente 60 minutos.*"
                     },
                     [
                         {
@@ -204,21 +204,28 @@
     {
         "slug": "cambiar-contra",
         "title": "Cambiar Contraseña",
-        "titulopaso1": "Pasos para cambiar la contraseña:",
-        "pasos1":
+        "pasos":
         [
-            {
-                "descripcion": "Ingresar a https://app.recargaloya.com/forgot-password",
-                "imagen": "/manual/resetpass1.png"
-            },
-            {
-                "descripcion": "Verificar la bandeja de entrada y restablecer contraseña.",
-                "imagen": "/manual/resetpass2.png"
-            },
-            {
-                "descripcion": "Ingresa la nueva contraseña y cambiar la contraseña.",
-                "imagen": "/manual/resetpass3.png"
-            }
+                [   
+                    {
+                        "titulo": "1.- Pasos para cambiar la contraseña:"
+                    },
+                    [
+                        {
+                            "descripcion": "Ingresar a https://app.recargaloya.com/forgot-password",
+                            "imagen": "/manual/resetpass1.png"
+                        },
+                        {
+                            "descripcion": "Verificar la bandeja de entrada y restablecer contraseña.",
+                            "imagen": "/manual/resetpass2.png"
+                        },
+                        {
+                            "descripcion": "Ingresa la nueva contraseña y cambiar la contraseña.",
+                            "imagen": "/manual/resetpass3.png"
+                        }
+                    ]
+                ]
+                
         ],
         "nota1": "En caso de tener la cuenta bloqueada contactar con soporte.*"
     },
