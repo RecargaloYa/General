@@ -1,6 +1,10 @@
 [
     {
-        "slug": "test",
-        "name": "Test"
+        "slug": "test1",
+        "name": "Test2"
+    },
+    {
+        "slug": "test2",
+        "name": "Test2"
     }
 ]
