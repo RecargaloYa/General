@@ -28,20 +28,20 @@
             }
         ],
         "nota1": "Al cliente le llegara los diamantes en aproximadamente 60 minutos.*",
-        "titulopaso2": "Horario de acreditación:",
+        "titulopaso2": "Horario de servicio:",
         "pasos2":[
             {
-                "lunesaviernes": "8:30 a 20:00."
+                "lunesaviernes": "8:30 a 20:00"
             },
             {
                 "finesdesemana": "8:30 - 14:30"
             },
             {
-                "feriado": "8:30 - 14:30"
+                "feriado": "NO SE LABORA"
             }
         ],
-        "nota2":"nora2",
-        "titulopaso3": "Pasos para vender diamantes de Free Fire",
+        "nota2":"Consulta con soporte si tienes alguna duda.",
+        "titulopaso3": "Preguntas frecuentes:",
         "pasos3":[
             {
                 "titulo": "Selecciona el servicio que deseas vender haciendo clic en él.",
