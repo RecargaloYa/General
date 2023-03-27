@@ -119,6 +119,7 @@
                 "url": "https://cdn.midasbuy.com/images/apps/pubgm/guide002.png",
                 "pasos":[
                     {
+                        "descripcion": "Busca el ID en el juego.",
                         "imagen": "https://cdn.midasbuy.com/images/apps/pubgm/guide002.png"
                     }
                 ]
