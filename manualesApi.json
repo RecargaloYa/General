@@ -1,8 +1,79 @@
 [
     {
         "slug": "free-fire",
-        "title": "Manual - Free Fire",
-        "description": "Manual de como un punto de venta debe vender diamantes de Free Fire",
+        "title": "Free Fire",
+        "titulopaso1": "Pasos para vender diamantes de Free Fire:",
+        "pasos1":
+        [
+            {
+                "descripcion": "Selecciona el servicio que deseas vender haciendo clic en él.",
+                "imagen": "/manual/freefire1.png"
+            },
+            {
+                "descripcion": "Ingresa el ID de Free Fire proporcionado por el cliente. Este ID consta únicamente de números, por ejemplo: 123456789.",
+                "imagen": "/manual/freefire2.png"
+            },
+            {
+                "descripcion": "Haz clic en el botón 'Vender'.",
+                "imagen": "/manual/freefire3.png"
+            },
+            {
+                "descripcion": "Haz clic en el botón 'Ver detalles'.",
+                "imagen": "/manual/freefire4.png"
+            },
+            {
+                "descripcion": "Despues, imprima el comprobante y entregar al cliente.",
+                "imagen": "/manual/freefire5.png"
+            }
+        ],
+        "nota1": "Al cliente le llegara los diamantes en aproximadamente 60 minutos.*",
+        "titulopaso2": "Horario de servicio:",
+        "pasos2":[
+            {
+                "lunesaviernes": "8:30 a 20:00"
+            },
+            {
+                "finesdesemana": "8:30 - 14:30"
+            },
+            {
+                "feriado": "No se labora"
+            }
+        ],
+        "nota2":"Consulta con soporte si tienes alguna duda.",
+        "titulopaso3": "Preguntas frecuentes:",
+        "pasos3":[
+            {
+                "titulo":"¿Dónde sé en cuenta el ID de Free Fire?",
+                "url": "https://ffsoporte.garena.com/hc/es-419/articles/360031572451--C%C3%B3mo-encuentro-mi-n%C3%BAmero-de-ID-"
+            },
+            {
+                "titulo": "¿Cómo funciona la membresía semanal y mensual?",
+                "url": "https://ffsoporte.garena.com/hc/es-419/articles/360031232072--C%C3%B3mo-funciona-la-suscripci%C3%B3n-semanal-y-mensual-"
+               
+            },
+            {
+                "titulo": "¿Como verificar si los diamantes llegaron al cliente?",
+                "pasos":[
+                    {
+                        "descripcion": "Ingresar a https://pagostore.com/app",
+                        "imagen": "/manual/freefire6.png"
+                    },
+                    {
+                        "descripcion": "Inicia sesión de Free Fire.",
+                        "imagen": "/manual/freefire7.png"
+                    },
+                    {
+                        "descripcion": "Haz clic en el botón 'Historial de Compra' y despues 'Buscar Movimiento'.",
+                        "imagen": "/manual/freefire8.png"
+                    }
+                ]
+            }
+        ],
+        "nota3":"Consulta con soporte si tienes alguna duda."
+    },
+    {
+        "slug": "pubg-mobile",
+        "title": "Free Fire",
         "titulopaso1": "Pasos para vender diamantes de Free Fire:",
         "pasos1":
         [
@@ -74,7 +145,7 @@
     },
     {
         "slug": "comisiones",
-        "title": "Manual - Comisiones",
+        "title": "Comisiones",
         "description": "RECARGALOYA.COM ofrece comisiones al punto de venta por cada orden que se complete exitosamente, lo que demuestra nuestro compromiso en brindar una experiencia satisfactoria tanto para nuestros clientes.*",
         "titulopaso1": "Pasos para obtener comisiones:",
         "pasos1":
