@@ -208,7 +208,7 @@
         "slug": "comisiones",
         "title": "Comisiones",
         "description": "RECARGALOYA.COM ofrece comisiones al punto de venta por cada orden que se complete exitosamente, lo que demuestra nuestro compromiso en brindar una experiencia satisfactoria tanto para nuestros clientes.*",
-        "titulopaso1": "Pasos para obtener comisiones:",
+        "titulopaso1": "1.- Pasos para obtener comisiones:",
         "pasos1":
         [
             {
@@ -220,36 +220,18 @@
                 "imagen": "/manual/comision2.png"
             }
         ],
-        "titulopaso2": "Horario de servicio:",
-        "pasos2":[
-            {
-                "lunesaviernes": "8:30 a 20:00"
-            },
-            {
-                "finesdesemana": "8:30 - 14:30"
-            },
-            {
-                "feriado": "No se labora"
-            }
-        ],
-        "titulopaso4": "Pasos para cambiar la contraseña:",
+        "titulopaso4": "2.- Como usar las comisiones:",
         "pasos4":
         [
             {
-                "descripcion": "Ingresar a https://app.recargaloya.com/forgot-password",
-                "imagen": "/manual/resetpass1.png"
+                "descripcion": "Contactar con soporte y solicitar la transferencia de comisiones a la billetera de caja.",
+                "imagen": ""
             },
             {
-                "descripcion": "Verificar la bandeja de entrada y restablecer contraseña.",
-                "imagen": "/manual/resetpass2.png"
-            },
-            {
-                "descripcion": "Ingresa la nueva contraseña y cambiar la contraseña.",
-                "imagen": "/manual/resetpass3.png"
+                "descripcion": "Soporte transferirá las comisiones a la billetera de caja. (Mínimo para transferir $3.00)",
+                "imagen": "/manual/comision3.png"
             }
-        ],
-        "nota4": "En caso de tener la cuenta bloqueada contactar con soporte.*"
-        
+        ]
     }
   
 ]
