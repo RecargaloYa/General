@@ -2,39 +2,12 @@
     {
         "slug": "free-fire",
         "title": "Free Fire",
-        "titulopaso1": "Pasos para vender diamantes de Free Fire:",
-        "pasos":[
+        "pasos":
+        [
                 [   
                     {
-                        "titulo": "Diamantes1",
-                        "nota":"nota1"
-                    },
-                    [
-                        {
-                            "descripcion": "Selecciona el servicio que deseas vender haciendo clic en él.",
-                            "imagen": "/manual/freefire1.png"
-                        },
-                        {
-                            "descripcion": "Ingresa el ID de Free Fire proporcionado por el cliente. Este ID consta únicamente de números, por ejemplo: 123456789.",
-                            "imagen": "/manual/freefire2.png"
-                        },
-                        {
-                            "descripcion": "Haz clic en el botón 'Vender'.",
-                            "imagen": "/manual/freefire3.png"
-                        },
-                        {
-                            "descripcion": "Haz clic en el botón 'Ver detalles'.",
-                            "imagen": "/manual/freefire4.png"
-                        },
-                        {
-                            "descripcion": "Despues, imprima el comprobante y entregar al cliente.",
-                            "imagen": "/manual/freefire5.png"
-                        }
-                    ]
-                ],
-                [   
-                    {
-                        "titulo": "Diamantes2"
+                        "titulo": "Pasos para vender diamantes de Free Fire:",
+                        "nota":"Al cliente le llegara los diamantes en aproximadamente 60 minutos.*"
                     },
                     [
                         {
@@ -60,32 +33,8 @@
                     ]
                 ]
         ],
-        "pasos1":
-        [
-            {
-                "descripcion": "Selecciona el servicio que deseas vender haciendo clic en él.",
-                "imagen": "/manual/freefire1.png"
-            },
-            {
-                "descripcion": "Ingresa el ID de Free Fire proporcionado por el cliente. Este ID consta únicamente de números, por ejemplo: 123456789.",
-                "imagen": "/manual/freefire2.png"
-            },
-            {
-                "descripcion": "Haz clic en el botón 'Vender'.",
-                "imagen": "/manual/freefire3.png"
-            },
-            {
-                "descripcion": "Haz clic en el botón 'Ver detalles'.",
-                "imagen": "/manual/freefire4.png"
-            },
-            {
-                "descripcion": "Despues, imprima el comprobante y entregar al cliente.",
-                "imagen": "/manual/freefire5.png"
-            }
-        ],
-        "nota1": "Al cliente le llegara los diamantes en aproximadamente 60 minutos.*",
-        "titulopaso2": "Horario de servicio:",
-        "pasos2":[
+        "horario": "Horario de servicio:",
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
@@ -96,8 +45,8 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "Preguntas frecuentes:",
+        "notadehorario":"Consulta con soporte si tienes alguna duda.",
+        "preguntafrecuentes": "Preguntas frecuentes:",
         "pasos3":[
             {
                 "titulo":"¿Dónde sé en cuenta el ID de Free Fire?",
@@ -126,7 +75,7 @@
                 ]
             }
         ],
-        "nota3":"Consulta con soporte si tienes alguna duda."
+        "notapf":"Consulta con soporte si tienes alguna duda."
     },
     {
         "slug": "pubg-mobile",
