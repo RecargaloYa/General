@@ -233,29 +233,39 @@
         "slug": "comisiones",
         "title": "Comisiones",
         "description": "RECARGALOYA.COM ofrece comisiones al punto de venta por cada orden que se complete exitosamente, lo que demuestra nuestro compromiso en brindar una experiencia satisfactoria tanto para nuestros clientes.*",
-        "titulopaso1": "1.- Pasos para obtener comisiones:",
-        "pasos1":
+        "pasos":
         [
-            {
-                "descripcion": "Cada servicio tiene una comisión definida.",
-                "imagen": "/manual/comision1.png"
-            },
-            {
-                "descripcion": "Realizamos la venta y recibe la comisión del servicio.",
-                "imagen": "/manual/comision2.png"
-            }
-        ],
-        "titulopaso4": "2.- Como usar las comisiones:",
-        "pasos4":
-        [
-            {
-                "descripcion": "Contactar con soporte y solicitar la transferencia de comisiones a la billetera de caja.",
-                "imagen": "/home/regis1.png"
-            },
-            {
-                "descripcion": "Soporte transferirá las comisiones a la billetera de caja. (Mínimo para transferir $3.00)",
-                "imagen": "/manual/comision3.png"
-            }
+                [   
+                    {
+                        "titulo": "1.- Pasos para obtener comisiones:"
+                    },
+                    [
+                        {
+                            "descripcion": "Cada servicio tiene una comisión definida.",
+                            "imagen": "/manual/comision1.png"
+                        },
+                        {
+                            "descripcion": "Realizamos la venta y recibe la comisión del servicio.",
+                            "imagen": "/manual/comision2.png"
+                        }
+                    ]
+                ],
+                [   
+                    {
+                        "titulo": "2.- Como usar las comisiones:"
+                    },
+                    [
+                        {
+                            "descripcion": "Contactar con soporte y solicitar la transferencia de comisiones a la billetera de caja.",
+                            "imagen": "/home/regis1.png"
+                        },
+                        {
+                            "descripcion": "Soporte transferirá las comisiones a la billetera de caja. (Mínimo para transferir $3.00)",
+                            "imagen": "/manual/comision3.png"
+                        }
+                    ]
+                ]
+                
         ]
     },
     {
