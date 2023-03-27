@@ -247,16 +247,20 @@
                 "descripcion": "Antes de comprar el servicio tener en cuenta lo siguiente:",
                 "list":[
                     {
-                        "Crear": "Solo es posible crear cuentas, siempre y cuando no hayan sido registrada en otra plataforma."
+                        "titulo":"Crear",
+                        "texto": "Solo es posible crear cuentas, siempre y cuando no hayan sido registrada en otra plataforma."
                     },
                     {
-                        "Renovar": "Solo es posible renovar cuentas creadas en RECARGALOYA.COM."
+                        "titulo":"Renovar",
+                        "texto": "Solo es posible renovar cuentas creadas en RECARGALOYA.COM."
                     },
                     {
-                        "Usuario": "Solo ingresar letras y números Ejm: Juan123"
+                        "titulo":"Usuario",
+                        "texto": "Solo ingresar letras y números Ejm: Juan123"
                     },
                     {
-                        "Contraseña": "Solo ingresar letras y números Ejm: Juan123"
+                        "titulo":"Contraseña",
+                        "texto": "Solo ingresar letras y números Ejm: Juan123"
                     }
                 ]
             },
