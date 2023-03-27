@@ -6,7 +6,8 @@
         "pasos":[
                 [   
                     {
-                        "titulo": "Diamantes1"
+                        "titulo": "Diamantes1",
+                        "nota":"nota1"
                     },
                     [
                         {
