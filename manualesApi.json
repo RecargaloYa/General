@@ -558,6 +558,26 @@
                 "imagen": "/manual/freefire5.png"
             }
         ]
+    },
+    {
+        "slug": "distribuidor",
+        "title": "Distribuidor",
+        "titulopaso1": "1.- Pasos para recargar pronósticos deportivos:",
+        "pasos1":
+        [
+            {
+                "descripcion": "Selecciona el servicio que deseas vender haciendo clic en él.",
+                "imagen": "/manual/pronosticod1.png"
+            },
+            {
+                "descripcion": "Ingresamos el ID proporcionado por el cliente.",
+                "imagen": "/manual/pronosticod2.png"
+            },
+            {
+                "descripcion": "Ejemplo de ID de Ecuabet.",
+                "imagen": "/manual/pronosticod3.png"
+            }
+        ]
     }
   
 ]
