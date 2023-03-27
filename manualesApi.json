@@ -46,8 +46,8 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "Preguntas frecuentes:",
+        "notahorario":"Consulta con soporte si tienes alguna duda.",
+        "preguntafrecuente": "Preguntas frecuentes:",
         "pasos3":[
             {
                 "titulo":"¿Dónde sé en cuenta el ID de Free Fire?",
@@ -76,7 +76,7 @@
                 ]
             }
         ],
-        "nota3":"Consulta con soporte si tienes alguna duda."
+        "notapf":"Consulta con soporte si tienes alguna duda."
     },
     {
         "slug": "pubg-mobile",
