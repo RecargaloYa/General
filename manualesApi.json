@@ -220,7 +220,6 @@
                 "imagen": "/manual/comision2.png"
             }
         ],
-        "nota1": "Al cliente le llegara los diamantes en aproximadamente 60 minutos.*",
         "titulopaso2": "Horario de servicio:",
         "pasos2":[
             {
@@ -233,37 +232,24 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "Preguntas frecuentes:",
-        "pasos3":[
+        "titulopaso4": "Pasos para cambiar la contraseña:",
+        "pasos4":
+        [
             {
-                "titulo":"¿Dónde sé en cuenta el ID de Free Fire?",
-                "url": "https://ffsoporte.garena.com/hc/es-419/articles/360031572451--C%C3%B3mo-encuentro-mi-n%C3%BAmero-de-ID-"
+                "descripcion": "Ingresar a https://app.recargaloya.com/forgot-password",
+                "imagen": "/manual/resetpass1.png"
             },
             {
-                "titulo": "¿Cómo funciona la membresía semanal y mensual?",
-                "url": "https://ffsoporte.garena.com/hc/es-419/articles/360031232072--C%C3%B3mo-funciona-la-suscripci%C3%B3n-semanal-y-mensual-"
-               
+                "descripcion": "Verificar la bandeja de entrada y restablecer contraseña.",
+                "imagen": "/manual/resetpass2.png"
             },
             {
-                "titulo": "¿Como verificar si los diamantes llegaron al cliente?",
-                "pasos":[
-                    {
-                        "descripcion": "Ingresar a https://pagostore.com/app",
-                        "imagen": "/manual/freefire6.png"
-                    },
-                    {
-                        "descripcion": "Inicia sesión de Free Fire.",
-                        "imagen": "/manual/freefire7.png"
-                    },
-                    {
-                        "descripcion": "Haz clic en el botón 'Historial de Compra' y despues 'Buscar Movimiento'.",
-                        "imagen": "/manual/freefire8.png"
-                    }
-                ]
+                "descripcion": "Ingresa la nueva contraseña y cambiar la contraseña.",
+                "imagen": "/manual/resetpass3.png"
             }
         ],
-        "nota3":"Consulta con soporte si tienes alguna duda."
+        "nota4": "En caso de tener la cuenta bloqueada contactar con soporte.*"
+        
     }
   
 ]
