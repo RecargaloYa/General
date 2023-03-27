@@ -46,7 +46,7 @@
                 "feriado": "No se labora"
             }
         ],
-        "titulopF": "Preguntas frecuentes:",
+        "titulopF": "3.- Preguntas frecuentes:",
         "preguntasF":[
             {
                 "titulo":"¿Dónde sé en cuenta el ID de Free Fire?",
@@ -112,7 +112,7 @@
                 ]
                 
         ],
-        "titulohorario": "Horario de servicio:",
+        "titulohorario": "2.- Horario de servicio:",
         "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
@@ -124,7 +124,7 @@
                 "feriado": "No se labora"
             }
         ],
-        "titulopF": "Preguntas frecuentes:",
+        "titulopF": "3.- Preguntas frecuentes:",
         "preguntasF":[
             {
                 "titulo": "¿Dónde sé en cuenta el ID de PUBG MOBILE?",
