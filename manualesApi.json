@@ -128,6 +128,62 @@
         "nota3":"Consulta con soporte si tienes alguna duda."
     },
     {
+        "slug": "mobile-legends-bang-bang",
+        "title": "Mobile Legends: Bang Bang",
+        "titulopaso1": "Pasos para vender diamantes de Mobile Legends: Bang Bang:",
+        "pasos1":
+        [
+            {
+                "descripcion": "Selecciona el servicio que deseas vender haciendo clic en él.",
+                "imagen": "/manual/mlbb1.png"
+            },
+            {
+                "descripcion": "Ingresa el ID y ID Zona proporcionado por el cliente. Los ID consta únicamente de números, por ejemplo: 123456789, 1234.",
+                "imagen": "/manual/mlbb2.png"
+            },
+            {
+                "descripcion": "Haz clic en el botón 'Vender'.",
+                "imagen": "/manual/mlbb3.png"
+            },
+            {
+                "descripcion": "Haz clic en el botón 'Ver detalles'.",
+                "imagen": "/manual/freefire4.png"
+            },
+            {
+                "descripcion": "Despues, imprima el comprobante y entregar al cliente.",
+                "imagen": "/manual/freefire5.png"
+            }
+        ],
+        "nota1": "Al cliente le llegara los UC en aproximadamente 60 minutos.*",
+        "titulopaso2": "Horario de servicio:",
+        "pasos2":[
+            {
+                "lunesaviernes": "8:30 a 20:00"
+            },
+            {
+                "finesdesemana": "8:30 - 14:30"
+            },
+            {
+                "feriado": "No se labora"
+            }
+        ],
+        "nota2":"Consulta con soporte si tienes alguna duda.",
+        "titulopaso3": "Preguntas frecuentes:",
+        "pasos3":[
+            {
+                "titulo": "¿Dónde sé en cuenta el ID de Mobile Legends: Bang Bang?",
+                "url": "https://cdn.moogold.com/2019/11/mobile-legends-user-id-1-1024x549.png",
+                "pasos":[
+                    {
+                        "descripcion": "Busca el ID en el juego.",
+                        "imagen": "https://cdn.moogold.com/2019/11/mobile-legends-user-id-1-1024x549.png"
+                    }
+                ]
+            }
+        ],
+        "nota3":"Consulta con soporte si tienes alguna duda."
+    },
+    {
         "slug": "comisiones",
         "title": "Comisiones",
         "description": "RECARGALOYA.COM ofrece comisiones al punto de venta por cada orden que se complete exitosamente, lo que demuestra nuestro compromiso en brindar una experiencia satisfactoria tanto para nuestros clientes.*",
