@@ -6,7 +6,7 @@
         [
                 [   
                     {
-                        "titulo": "Pasos para vender diamantes de Free Fire:",
+                        "titulo": "1.- Pasos para vender diamantes de Free Fire:",
                         "nota":"Al cliente le llegara los diamantes en aproximadamente 60 minutos.*"
                     },
                     [
@@ -34,8 +34,8 @@
                 ]
                 
         ],
-        "titulohorario": "Horario de servicio:",
-        "pasos2":[
+        "titulohorario": "2.- Horario de servicio:",
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
