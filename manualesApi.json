@@ -60,6 +60,7 @@
             },
             {
                 "titulo": "¿Como verificar si los diamantes llegaron al cliente?",
+                "respuesta":"respuestarespuesta",
                 "pasos":[
                     {
                         "descripcion": "Ingresar a https://pagostore.com/app",
