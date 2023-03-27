@@ -47,11 +47,10 @@
             }
         ],
         "notahorario":"Consulta con soporte si tienes alguna duda.",
-        "preguntafrecuente": "Preguntas frecuentes:",
-        "pasos3":[
+        "titulopF": "Preguntas frecuentes:",
+        "preguntasF":[
             {
                 "titulo":"¿Dónde sé en cuenta el ID de Free Fire?",
-                "respuesta":"respuestarespuesta",
                 "url": "https://ffsoporte.garena.com/hc/es-419/articles/360031572451--C%C3%B3mo-encuentro-mi-n%C3%BAmero-de-ID-"
             },
             {
@@ -61,7 +60,6 @@
             },
             {
                 "titulo": "¿Como verificar si los diamantes llegaron al cliente?",
-                "respuesta":"respuestarespuesta",
                 "pasos":[
                     {
                         "descripcion": "Ingresar a https://pagostore.com/app",
