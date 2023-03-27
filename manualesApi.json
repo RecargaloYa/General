@@ -112,9 +112,8 @@
                 ]
                 
         ],
-        "nota1": "Al cliente le llegara los UC en aproximadamente 60 minutos.*",
         "titulohorario": "Horario de servicio:",
-        "pasos2":[
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
@@ -125,9 +124,8 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "Preguntas frecuentes:",
-        "pasos3":[
+        "titulopF": "Preguntas frecuentes:",
+        "preguntasF":[
             {
                 "titulo": "¿Dónde sé en cuenta el ID de PUBG MOBILE?",
                 "url": "https://cdn.midasbuy.com/images/apps/pubgm/guide002.png",
@@ -170,7 +168,7 @@
         ],
         "nota1": "Al cliente le llegara los UC en aproximadamente 60 minutos.*",
         "titulohorario": "Horario de servicio:",
-        "pasos2":[
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
@@ -181,9 +179,9 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "Preguntas frecuentes:",
-        "pasos3":[
+        "notahorario":"Consulta con soporte si tienes alguna duda.",
+        "titulopF": "Preguntas frecuentes:",
+        "preguntasF":[
             {
                 "titulo": "¿Dónde sé en cuenta el ID de Mobile Legends: Bang Bang?",
                 "url": "https://cdn.moogold.com/2019/11/mobile-legends-user-id-1-1024x549.png",
@@ -293,7 +291,7 @@
         ],
         "nota1": "Al cliente le llegara la cuenta en aproximadamente 60 minutos.*",
         "titulohorario": "2.- Horario de servicio:",
-        "pasos2":[
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
@@ -304,7 +302,7 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda."
+        "notahorario":"Consulta con soporte si tienes alguna duda."
     },
     {
         "slug": "magistv-credito",
@@ -356,7 +354,7 @@
         ],
         "nota1": "Al cliente le llegara la cuenta en aproximadamente 60 minutos.*",
         "titulohorario": "2.- Horario de servicio:",
-        "pasos2":[
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
@@ -367,9 +365,9 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "3.- Preguntas frecuentes:",
-        "pasos3":[
+        "notahorario":"Consulta con soporte si tienes alguna duda.",
+        "titulopF": "3.- Preguntas frecuentes:",
+        "preguntasF":[
             {
                 "titulo":"¿Como usar Credito de MAGISTV?",
                 "url": "https://www.youtube.com/watch?v=n-1Rmq7X_EI"
@@ -483,8 +481,8 @@
             }
         ],
         "nota1": "En RECARGALOYA.COM no ofrecemos soporte para la instalación de impresoras, ni tampoco vendemos ni distribuimos estos dispositivos.*",
-        "titulopaso3": "2.- Preguntas frecuentes:",
-        "pasos3":[
+        "titulopF": "2.- Preguntas frecuentes:",
+        "preguntasF":[
             {
                 "titulo":"¿Como cambio él nombre comercial del comprobante de pago? Contactar con soporte para el cambio de nombre comercial: 096 368 8259"
             }
@@ -512,7 +510,7 @@
         ],
         "nota1": "Al cliente le llegara el saldo en aproximadamente 60 minutos.*",
         "titulohorario": "Horario de servicio:",
-        "pasos2":[
+        "horas":[
             {
                 "lunesaviernes": "8:30 a 20:00"
             },
@@ -523,9 +521,9 @@
                 "feriado": "No se labora"
             }
         ],
-        "nota2":"Consulta con soporte si tienes alguna duda.",
-        "titulopaso3": "3.- Preguntas frecuentes:",
-        "pasos3":[
+        "notahorario":"Consulta con soporte si tienes alguna duda.",
+        "titulopF": "3.- Preguntas frecuentes:",
+        "preguntasF":[
             {
                 "titulo":"¿Que es un giro nacional? Los giros nacionales son transferencias bancarias realizadas por un operador."
             },
