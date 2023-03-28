@@ -317,6 +317,34 @@
                             "imagen": "/manual/freefire5.png"
                         }
                     ]
+                ],
+                [   
+                    {
+                        "titulo": "2.- Politica de RECARGALOYA y MAGISTV:",
+                        "nota": "En caso de incumplimiento, su cuenta de RECARGALOYA.COM será bloqueada permanentemente.*"
+                    },
+                    {
+                        "descripcion": "Respetar los precios oficiales de MAGISTV",
+                        "list":[
+                            {
+                                "titulo":"1 MES",
+                                "texto": " $9.00"
+                            },
+                            {
+                                "titulo":"3 MESES",
+                                "texto": " $27.00"
+                            },
+                            {
+                                "titulo":"6 MESES",
+                                "texto": " $49.00"
+                            },
+                            {
+                                "titulo":"12 MESES",
+                                "texto": " $86.99"
+                            }
+                        ]
+                    }
+                    
                 ]
         ],
         "titulohorario": "2.- Horario de servicio:",
