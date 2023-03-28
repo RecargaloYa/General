@@ -438,23 +438,26 @@
                             "imagen": "/manual/magistv7.png"
                         }
                     ]
+                ],
+                [   
+                    {
+                        "titulo": "2.- Como instalar MAGISTV en el Televisor:"
+                    },
+                    [
+                        {
+                            "descripcion": "Comprar FireTv seguir los pasos del manual e instalar en el Televisor.",
+                            "imagen": "/manual/magistv8.png"
+                        },
+                        {
+                            "descripcion": "Ver tutorial para instalar MAGISTV. Downloader: 148683 Link: https://www.youtube.com/watch?v=GKUPpJ3WA2o",
+                            "imagen": ""
+                        },
+                        {
+                            "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
+                            "imagen": "/manual/magistv7.png"
+                        }
+                    ]
                 ]
-        ],
-        "titulopaso4": "2.- Como instalar MAGISTV en el Televisor:",
-        "pasos4":
-        [
-            {
-                "descripcion": "Comprar FireTv seguir los pasos del manual e instalar en el Televisor.",
-                "imagen": "/manual/magistv8.png"
-            },
-            {
-                "descripcion": "Ver tutorial para instalar MAGISTV. Downloader: 148683 Link: https://www.youtube.com/watch?v=GKUPpJ3WA2o",
-                "imagen": ""
-            },
-            {
-                "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
-                "imagen": "/manual/magistv7.png"
-            }
         ]
     },
     {
