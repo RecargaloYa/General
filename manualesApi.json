@@ -400,7 +400,6 @@
                 "feriado": "No se labora"
             }
         ],
-        "notahorario":"Consulta con soporte si tienes alguna duda.",
         "titulopF": "3.- Preguntas frecuentes:",
         "preguntasF":[
             {
@@ -419,21 +418,27 @@
     {
         "slug": "instalar-magistv",
         "title": "Instalar MAGISTV",
-        "titulopaso1": "1.- Como instalar MAGISTV en Android:",
-        "pasos1":
+        "pasos":
         [
-            {
-                "descripcion": "Descargar APK MAGISTV.",
-                "imagen": "/manual/magistv5.png"
-            },
-            {
-                "descripcion": "Instalar la aplicación.",
-                "imagen": "/manual/magistv6.png"
-            },
-            {
-                "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
-                "imagen": "/manual/magistv7.png"
-            }
+                [   
+                    {
+                        "titulo": "1.- Como instalar MAGISTV en Android:"
+                    },
+                    [
+                        {
+                            "descripcion": "Descargar APK MAGISTV.",
+                            "imagen": "/manual/magistv5.png"
+                        },
+                        {
+                            "descripcion": "Instalar la aplicación.",
+                            "imagen": "/manual/magistv6.png"
+                        },
+                        {
+                            "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
+                            "imagen": "/manual/magistv7.png"
+                        }
+                    ]
+                ]
         ],
         "titulopaso4": "2.- Como instalar MAGISTV en el Televisor:",
         "pasos4":
