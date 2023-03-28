@@ -658,30 +658,45 @@
                         "descripcion": "Requisitos para distribuidor.",
                         "list":[
                             {
-                                "titulo":"1.",
+                                "titulo":"1",
                                 "texto": "Pago de $100 USD."
                             },
                             {
-                                "titulo":"2.",
+                                "titulo":"2",
                                 "texto": "Copia de cédula"
                             },
                             {
-                                "titulo":"3.",
+                                "titulo":"3",
                                 "texto": "Correo electrónico"
                             },
                             {
-                                "titulo":"4.",
+                                "titulo":"4",
                                 "texto": "Copia de RUC"
                             },
                             {
-                                "titulo":"5.",
+                                "titulo":"5",
                                 "texto": "Foto tamaño carnet"
                             },
                             {
-                                "titulo":"6.",
+                                "titulo":"6",
                                 "texto": "Aceptar términos y condiciones del Distribuidor."
                             }
                         ]
+                    },
+                    {
+                        "descripcion": "Revisa tu bandeja de entrada de correo electrónico para verificar tus credenciales.",
+                        "imagen": "/home/regis4.png"
+                        
+                    },
+                    {
+                        "descripcion": "Accede a tu cuenta utilizando las credenciales enviadas. app.recargaloya.com",
+                        "imagen": "/home/regis5.png"
+                        
+                    },
+                    {
+                        "descripcion": "¡Perfecto! Ahora eres un punto de venta de RECARGALOYA.COM",
+                        "imagen": "/home/regis6.png"
+                        
                     }
                   
                 ]
