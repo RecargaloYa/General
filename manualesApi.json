@@ -718,6 +718,24 @@
                     }
                   
                 ]
+            ],
+            [   
+                {
+                    "titulo": "3.- Como veo mi credencial online de distribuidor autorizado:"
+                },
+                [
+                    {
+                        "descripcion": "Ingresamos a www.recargaloya.com/#/dist/numero de cedula Ejemplo: www.recargaloya.com/#/dist/0932079239",
+                        "imagen": "/manual/dist1.png"
+                        
+                    },
+                    {
+                        "descripcion": "Ingresa el correo y listo, ya tienes tu cuenta creada.",
+                        "imagen": "/manual/dist2.png"
+                        
+                    }
+                  
+                ]
             ]
     ]
     }
