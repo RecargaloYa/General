@@ -700,6 +700,29 @@
                     }
                   
                 ]
+            ],
+            [   
+                {
+                    "titulo": "2.- Como crear una cuenta:"
+                },
+                [
+                    {
+                        "descripcion": "Revisa tu bandeja de entrada de correo electrónico para verificar tus credenciales.",
+                        "imagen": "/home/regis4.png"
+                        
+                    },
+                    {
+                        "descripcion": "Accede a tu cuenta utilizando las credenciales enviadas. app.recargaloya.com",
+                        "imagen": "/home/regis5.png"
+                        
+                    },
+                    {
+                        "descripcion": "¡Perfecto! Ahora eres un punto de venta de RECARGALOYA.COM",
+                        "imagen": "/home/regis6.png"
+                        
+                    }
+                  
+                ]
             ]
     ]
     }
