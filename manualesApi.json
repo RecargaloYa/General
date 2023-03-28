@@ -324,7 +324,7 @@
                         "nota": "En caso de incumplimiento, su cuenta de RECARGALOYA.COM será bloqueada permanentemente.*"
                     },
                     {
-                        "descripcion": "Respetar los precios oficiales de MAGISTV",
+                        "descripcion": "Los puntos de vender deben respetar los precios oficiales de MAGISTV para la venta al publico.",
                         "list":[
                             {
                                 "titulo":"1 MES",
@@ -343,6 +343,10 @@
                                 "texto": " $86.99"
                             }
                         ]
+                    },
+                    {
+                        "descripcion": "Todos los puntos de venta de RECARGALOYA.COM acturan como subvendedores de MAGISTV",
+                        "imagen":""
                     }
                     
                 ]
