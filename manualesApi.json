@@ -449,8 +449,8 @@
                             "imagen": "/manual/magistv8.png"
                         },
                         {
-                            "descripcion": "Ver tutorial para instalar MAGISTV. Downloader: 148683 Link: https://www.youtube.com/watch?v=GKUPpJ3WA2o",
-                            "imagen": ""
+                            "descripcion": "Ver tutorial para instalar MAGISTV. Downloader: 148683",
+                            "video": "https://www.youtube.com/watch?v=GKUPpJ3WA2o"
                         },
                         {
                             "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
