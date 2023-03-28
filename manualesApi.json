@@ -463,7 +463,6 @@
     {
         "slug": "servicio-basico",
         "title": "Servicio Básico",
-        "titulopaso1": "1.- Pasos para pagar un Servicio Básico:",
         "pasos":
         [
                 [   
@@ -498,43 +497,50 @@
     {
         "slug": "imprimir",
         "title": "Imprimir",
-        "titulopaso1": "1.- Pasos para imprimir comprobante de pago:",
-        "pasos1":
+        "pasos":
         [
-            {
-                "descripcion": "Ingresamos a la orden y damos clic en imprimir.",
-                "imagen": "/manual/imprimir1.png"
-            },
-            {
-                "descripcion": "Escogemos el tamaño de papel y descargamos el PDF, en caso de impresora térmica.",
-                "imagen": "/manual/imprimir2.png"
-            },
-            {
-                "descripcion": "Descargado el PDF enviar a la impresora térmica.",
-                "imagen": "/manual/imprimir5.png"
-            },
-            {
-                "descripcion": "Y ahora ya puedes entregar el comprobante a tu cliente.",
-                "imagen": "/manual/imprimir3.png"
-            },
-            {
-                "descripcion": "En caso de impresora de tinta, seleccionamos el tamaño de papel e imprimimos el archivo HTML.",
-                "imagen": "/manual/imprimir4.png"
-            },
-            {
-                "descripcion": "Escogemos la impresora y damos clic en Imprimir.",
-                "imagen": "/manual/imprimir6.png"
-            },
-            {
-                "descripcion": "Y ahora ya puedes entregar el comprobante a tu cliente.",
-                "imagen": "/manual/imprimir7.png"
-            }
+                [   
+                    {
+                        "titulo": "1.- Pasos para imprimir comprobante de pago:",
+                        "nota":"En RECARGALOYA.COM no ofrecemos soporte para la instalación de impresoras, ni tampoco vendemos ni distribuimos estos dispositivos.*"
+                    },
+                    [
+                        {
+                            "descripcion": "Ingresamos a la orden y damos clic en imprimir.",
+                            "imagen": "/manual/imprimir1.png"
+                        },
+                        {
+                            "descripcion": "Escogemos el tamaño de papel y descargamos el PDF, en caso de impresora térmica.",
+                            "imagen": "/manual/imprimir2.png"
+                        },
+                        {
+                            "descripcion": "Descargado el PDF enviar a la impresora térmica.",
+                            "imagen": "/manual/imprimir5.png"
+                        },
+                        {
+                            "descripcion": "Y ahora ya puedes entregar el comprobante a tu cliente.",
+                            "imagen": "/manual/imprimir3.png"
+                        },
+                        {
+                            "descripcion": "En caso de impresora de tinta, seleccionamos el tamaño de papel e imprimimos el archivo HTML.",
+                            "imagen": "/manual/imprimir4.png"
+                        },
+                        {
+                            "descripcion": "Escogemos la impresora y damos clic en Imprimir.",
+                            "imagen": "/manual/imprimir6.png"
+                        },
+                        {
+                            "descripcion": "Y ahora ya puedes entregar el comprobante a tu cliente.",
+                            "imagen": "/manual/imprimir7.png"
+                        }
+                    ]
+                ]
         ],
-        "nota1": "En RECARGALOYA.COM no ofrecemos soporte para la instalación de impresoras, ni tampoco vendemos ni distribuimos estos dispositivos.*",
         "titulopF": "2.- Preguntas frecuentes:",
         "preguntasF":[
             {
-                "titulo":"¿Como cambio él nombre comercial del comprobante de pago? Contactar con soporte para el cambio de nombre comercial: 096 368 8259"
+                "titulo":"¿Como cambio él nombre comercial del comprobante de pago?",
+                "respuesta":"Contactar con soporte para el cambio de nombre comercial: 096 368 8259"
             }
             
         ]
