@@ -288,7 +288,7 @@
                             "list":[
                                 {
                                     "titulo":"Crear",
-                                    "texto": "Solo es posible crear cuentas, siempre y cuando no hayan sido registrada en otra plataforma."
+                                    "texto": "Solo es posible crear cuentas, siempre y cuando no hayan sido registradas en otra plataforma."
                                 },
                                 {
                                     "titulo":"Renovar",
@@ -385,7 +385,7 @@
                             "list":[
                                 {
                                     "titulo":"Crear",
-                                    "texto": "Solo es posible crear cuentas, siempre y cuando no hayan sido registrada en otra plataforma."
+                                    "texto": "Solo es posible crear cuentas, siempre y cuando no hayan sido registradas en otra plataforma."
                                 },
                                 {
                                     "titulo":"Renovar",
