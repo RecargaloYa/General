@@ -597,7 +597,7 @@
                 },
                 [
                     {
-                        "descripcion": "Selecciona el banco e ingresamos los datos bancarios del cliente receptor y realizar el giro.",
+                        "descripcion": "Selecciona el banco e ingresa los datos bancarios del cliente receptor y realizar el giro.",
                         "imagen": "/manual/giron1.png"
                     },
                     {
@@ -627,15 +627,15 @@
         "titulopF": "3.- Preguntas frecuentes:",
         "preguntasF":[
             {
-                "titulo":"¿Que es un giro nacional?",
+                "titulo":"¿Qué es un giro nacional?",
                 "respuesta":"Los giros nacionales son transferencias bancarias realizadas por un operador."
             },
             {
-                "titulo":"¿Porque demora 60 minutos el giro?",
+                "titulo":"¿Por qué demora 60 minutos el giro?",
                 "respuesta":"Los giros nacionales requieren de una aprobación manual por un operador, por lo que puede demorar hasta 60 minutos."
             },
             {
-                "titulo":"¿Quienes son los operadores que realizan la transferencia bancaria?",
+                "titulo":"¿Quiénes son los operadores que realizan la transferencia bancaria?",
                 "respuesta":"Las transferencias son realizadas bajo el nombre de JOFFRE VELOZ o FASTERY-DEV S.A.S."
             }
         ]
