@@ -305,7 +305,7 @@
                             ]
                         },
                         {
-                            "descripcion": "Ingresamos los datos del cliente y vender.",
+                            "descripcion": "Ingresar los datos del cliente y vender.",
                             "imagen": "/manual/magistv2.png"
                         },
                         {
@@ -402,7 +402,7 @@
                             ]
                         },
                         {
-                            "descripcion": "Ingresamos los datos del cliente y vender.",
+                            "descripcion": "Ingresar los datos del cliente y vender.",
                             "imagen": "/manual/magistv4.png"
                         },
                         {
@@ -548,7 +548,7 @@
                     },
                     [
                         {
-                            "descripcion": "Ingresamos a la orden y damos clic en imprimir.",
+                            "descripcion": "Ingresar a la orden y damos clic en imprimir.",
                             "imagen": "/manual/imprimir1.png"
                         },
                         {
@@ -655,7 +655,7 @@
                         "imagen": "/manual/pronosticod1.png"
                     },
                     {
-                        "descripcion": "Ingresamos el ID proporcionado por el cliente.",
+                        "descripcion": "Ingresar el ID proporcionado por el cliente.",
                         "imagen": "/manual/pronosticod2.png"
                     },
                     {
@@ -767,7 +767,7 @@
                 },
                 [
                     {
-                        "descripcion": "Ingresamos a www.recargaloya.com/#/dist/numero de cedula Ejemplo: www.recargaloya.com/#/dist/0932079239",
+                        "descripcion": "Ingresar a www.recargaloya.com/#/dist/numero de cedula Ejemplo: www.recargaloya.com/#/dist/0932079239",
                         "imagen": "/manual/dist3.png"
                         
                     }
