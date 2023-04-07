@@ -85,7 +85,7 @@
                 [   
                     {
                         "titulo": "1.- Pasos para vender UC de PUBG MOBILE:",
-                        "nota": "Al cliente le llegara los UC en aproximadamente 60 minutos.*"
+                        "nota": "El cliente recibira los UC en aproximadamente 60 minutos.*"
                     },
                     [
                         {
@@ -147,7 +147,7 @@
                 [   
                     {
                         "titulo": "1.- Pasos para vender diamantes de Mobile Legends: Bang Bang:",
-                        "nota": "Al cliente le llegara los diamantes en aproximadamente 60 minutos.*"
+                        "nota": "El cliente recibira los diamantes en aproximadamente 60 minutos.*"
                     },
                     [
                         {
@@ -276,7 +276,7 @@
                 [   
                     {
                         "titulo": "1.- Pasos para vender cuentas de MAGISTV:",
-                        "nota": "Al cliente le llegara la cuenta en aproximadamente 60 minutos.*"
+                        "nota": "El cliente recibira la cuenta en aproximadamente 60 minutos.*"
                     },
                     [
                         {
@@ -373,7 +373,7 @@
                 [   
                     {
                         "titulo": "1.- Pasos para vender Credito de MAGISTV (Distribuidor de MAGISTV):",
-                        "nota": "Al cliente le llegara la cuenta en aproximadamente 60 minutos.*"
+                        "nota": "El cliente recibira la cuenta en aproximadamente 60 minutos.*"
                     },
                     [
                         {
@@ -476,7 +476,7 @@
                             "imagen": "/manual/magistv6.png"
                         },
                         {
-                            "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
+                            "descripcion": "Iniciamos sesión y ahora puede ver todo el contenido de MAGISTV.",
                             "imagen": "/manual/magistv7.png"
                         }
                     ]
@@ -495,7 +495,7 @@
                             "video": "https://www.youtube.com/embed/GKUPpJ3WA2o"
                         },
                         {
-                            "descripcion": "Iniciamos sesión y ahora podemos ver todo el contenido de MAGISTV.",
+                            "descripcion": "Iniciamos sesión y ahora puede ver todo el contenido de MAGISTV.",
                             "imagen": "/manual/magistv7.png"
                         }
                     ]
@@ -521,7 +521,7 @@
                             "imagen": "/manual/serviciob2.png"
                         },
                         {
-                            "descripcion": "Ingresar la referencia proporcionada por el cliente, consultamos y pagamos.",
+                            "descripcion": "Ingresar la referencia proporcionada por el cliente, consulta y click en confirmar el pago",
                             "imagen": "/manual/serviciob3.png"
                         },
                         {
@@ -544,7 +544,7 @@
                 [   
                     {
                         "titulo": "1.- Pasos para imprimir comprobante de pago:",
-                        "nota":"En RECARGALOYA.COM no ofrecemos soporte para la instalación de impresoras, ni tampoco vendemos ni distribuimos estos dispositivos.*"
+                        "nota":"En RECARGALOYA.COM no ofrece soporte para la instalación de impresoras, ni tampoco vende ni distribuimos estos dispositivos.*"
                     },
                     [
                         {
@@ -552,7 +552,7 @@
                             "imagen": "/manual/imprimir1.png"
                         },
                         {
-                            "descripcion": "Escogemos el tamaño de papel y descargamos el PDF, en caso de impresora térmica.",
+                            "descripcion": "Escoge el tamaño de papel y descargamos el PDF, en caso de impresora térmica.",
                             "imagen": "/manual/imprimir2.png"
                         },
                         {
@@ -568,7 +568,7 @@
                             "imagen": "/manual/imprimir4.png"
                         },
                         {
-                            "descripcion": "Escogemos la impresora y damos clic en Imprimir.",
+                            "descripcion": "Escoge la impresora y damos clic en Imprimir.",
                             "imagen": "/manual/imprimir6.png"
                         },
                         {
