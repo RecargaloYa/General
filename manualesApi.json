@@ -58,7 +58,7 @@
                
             },
             {
-                "titulo": "¿Como verificar si los diamantes llegaron al cliente?",
+                "titulo": "¿Cómo verificar si los diamantes llegaron al cliente?",
                 "pasos":[
                     {
                         "descripcion": "Ingresar a https://pagostore.com/app",
@@ -252,7 +252,7 @@
                 ],
                 [   
                     {
-                        "titulo": "2.- Como usar las comisiones:"
+                        "titulo": "2.- ¿Cómo usar las comisiones?"
                     },
                     [
                         {
@@ -445,7 +445,7 @@
         "titulopF": "3.- Preguntas frecuentes:",
         "preguntasF":[
             {
-                "titulo":"¿Como usar Credito de MAGISTV?",
+                "titulo":"¿Cómo usar Credito de MAGISTV?",
                 "respuesta": "https://youtu.be/n-1Rmq7X_EI"
             },
             {
@@ -464,7 +464,7 @@
         [
                 [   
                     {
-                        "titulo": "1.- Como instalar MAGISTV en Android:"
+                        "titulo": "1.- ¿Cómo instalar MAGISTV en Android?"
                     },
                     [
                         {
@@ -483,7 +483,7 @@
                 ],
                 [   
                     {
-                        "titulo": "2.- Como instalar MAGISTV en el Televisor:"
+                        "titulo": "2.- ¿Cómo instalar MAGISTV en el Televisor?"
                     },
                     [
                         {
@@ -581,7 +581,7 @@
         "titulopF": "2.- Preguntas frecuentes:",
         "preguntasF":[
             {
-                "titulo":"¿Como cambio él nombre comercial del comprobante de pago?",
+                "titulo":"¿Cómo cambio él nombre comercial del comprobante de pago?",
                 "respuesta":"Contactar con soporte para el cambio de nombre comercial: 096 368 8259"
             }
         ]
@@ -745,7 +745,7 @@
             ],
             [   
                 {
-                    "titulo": "2.- Como crear una cuenta:"
+                    "titulo": "2.- ¿Cómo crear una cuenta?"
                 },
                 [
                     {
@@ -763,7 +763,7 @@
             ],
             [   
                 {
-                    "titulo": "3.- Como veo mi credencial online de distribuidor autorizado:"
+                    "titulo": "3.- ¿Cómo veo mi credencial online de distribuidor autorizado?"
                 },
                 [
                     {
