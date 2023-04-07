@@ -320,11 +320,11 @@
                 ],
                 [   
                     {
-                        "titulo": "2.- Politica de RECARGALOYA y MAGISTV:",
+                        "titulo": "2.- Política de RECARGALOYA y MAGISTV:",
                         "nota": "En caso de incumplimiento, su cuenta de RECARGALOYA.COM será bloqueada permanentemente.*"
                     },
                    [ {
-                        "descripcion": "Los puntos de vender deben respetar los precios oficiales de MAGISTV para la venta al publico.",
+                        "descripcion": "Los puntos de venta deben respetar los precios oficiales de MAGISTV, para la venta al público.",
                         "list":[
                             {
                                 "titulo":"1 MES",
@@ -345,7 +345,7 @@
                         ]
                     },
                     {
-                        "descripcion": "Todos los puntos de venta de RECARGALOYA.COM acturan como subvendedores de MAGISTV",
+                        "descripcion": "Todos los puntos de venta de RECARGALOYA.COM acturán como subvendedores de MAGISTV.",
                         "imagen":"/manual/magis10.png"
                     }]
                     
