@@ -581,7 +581,7 @@
         "titulopF": "2.- Preguntas frecuentes:",
         "preguntasF":[
             {
-                "titulo":"¿Cómo cambio él nombre comercial del comprobante de pago?",
+                "titulo":"¿Cómo cambio el nombre comercial del comprobante de pago?",
                 "respuesta":"Contactar con soporte para el cambio de nombre comercial: 096 368 8259"
             }
         ]
@@ -642,7 +642,7 @@
     },
     {
         "slug": "pronostico-deportivo",
-        "title": "Pronostico Deportivo",
+        "title": "Pronósticos Deportivos",
         "pasos":
         [
             [   
