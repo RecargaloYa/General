@@ -28,36 +28,5 @@
                 "img": ""
             }
         ]
-    },
-    {
-        "slug": "banco-pichincha",
-        "activo": "SI",
-        "icono":"",
-        "titulo": "Banco Pichincha",
-        "cuentas": [
-            {
-                "activo": "NO",
-                "titular": "JOFFRE ANDRES VELOZ",
-                "tipo": "Ahorro",
-                "numeroC": "2204485654",
-                "id": "0932079239",
-                "correo": "ventas@recargaloya.com"
-            },
-            {
-                "activo": "SI",
-                "titular": "FASTERY-DEV S.A.S.",
-                "tipo": "Corriente",
-                "numeroC": "2100284606",
-                "id": "0993376696001",
-                "correo": "ventas@recargaloya.com"
-            }
-        ],
-        "comprobantes": [
-            {
-                "tipo": "Cajero",
-                "img": ""
-            }
-        ]
     }
- 
 ]
