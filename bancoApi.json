@@ -11,7 +11,8 @@
                 "tipo": "Corriente",
                 "numeroC": "2100284606",
                 "id": "0993376696001",
-                "correo": "ventas@recargaloya.com"
+                "correo": "ventas@recargaloya.com",
+                "qr": "https://placehold.it/100x100"
             }
         ],
         "comprobantes": [
@@ -33,7 +34,8 @@
                 "tipo": "Ahorro",
                 "numeroC": "19031955",
                 "id": "0993376696001",
-                "correo": "ventas@recargaloya.com"
+                "correo": "ventas@recargaloya.com",
+                "qr": "https://placehold.it/100x100"
             }
         ],
         "comprobantes": [
@@ -55,7 +57,8 @@
                 "tipo": "Ahorro",
                 "numeroC": "12006838771",
                 "id": "0993376696001",
-                "correo": "ventas@recargaloya.com"
+                "correo": "ventas@recargaloya.com",
+                "qr": "https://placehold.it/100x100"
             }
         ],
         "comprobantes": [
@@ -77,7 +80,8 @@
                 "tipo": "Ahorro",
                 "numeroC": "1064286584",
                 "id": "0993376696001",
-                "correo": "ventas@recargaloya.com"
+                "correo": "ventas@recargaloya.com",
+                "qr": "https://placehold.it/100x100"
             }
         ],
         "comprobantes": [
