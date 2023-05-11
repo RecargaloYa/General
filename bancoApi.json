@@ -2,17 +2,9 @@
     {
         "slug": "banco-pichincha",
         "activo": "SI",
-        "icono":"",
+        "icono":"https://placehold.it/100x100",
         "titulo": "Banco Pichincha",
         "cuentas": [
-            {
-                "activo": "NO",
-                "titular": "JOFFRE ANDRES VELOZ",
-                "tipo": "Ahorro",
-                "numeroC": "2204485654",
-                "id": "0932079239",
-                "correo": "ventas@recargaloya.com"
-            },
             {
                 "activo": "SI",
                 "titular": "FASTERY-DEV S.A.S.",
@@ -25,7 +17,73 @@
         "comprobantes": [
             {
                 "tipo": "Cajero",
-                "img": ""
+                "img": "https://placehold.it/100x100"
+            }
+        ]
+    },
+    {
+        "slug": "banco-guayaquil",
+        "activo": "SI",
+        "icono":"https://placehold.it/100x100",
+        "titulo": "Banco Guayaquil",
+        "cuentas": [
+            {
+                "activo": "SI",
+                "titular": "FASTERY-DEV S.A.S.",
+                "tipo": "Ahorro",
+                "numeroC": "19031955",
+                "id": "0993376696001",
+                "correo": "ventas@recargaloya.com"
+            }
+        ],
+        "comprobantes": [
+            {
+                "tipo": "Cajero",
+                "img": "https://placehold.it/100x100"
+            }
+        ]
+    },
+    {
+        "slug": "produbanco",
+        "activo": "SI",
+        "icono":"https://placehold.it/100x100",
+        "titulo": "Produbanco",
+        "cuentas": [
+            {
+                "activo": "SI",
+                "titular": "FASTERY-DEV S.A.S.",
+                "tipo": "Ahorro",
+                "numeroC": "12006838771",
+                "id": "0993376696001",
+                "correo": "ventas@recargaloya.com"
+            }
+        ],
+        "comprobantes": [
+            {
+                "tipo": "Cajero",
+                "img": "https://placehold.it/100x100"
+            }
+        ]
+    },
+    {
+        "slug": "banco-pacifico",
+        "activo": "SI",
+        "icono":"https://placehold.it/100x100",
+        "titulo": "Banco del Pacífico",
+        "cuentas": [
+            {
+                "activo": "SI",
+                "titular": "FASTERY-DEV S.A.S.",
+                "tipo": "Ahorro",
+                "numeroC": "1064286584",
+                "id": "0993376696001",
+                "correo": "ventas@recargaloya.com"
+            }
+        ],
+        "comprobantes": [
+            {
+                "tipo": "Cajero",
+                "img": "https://placehold.it/100x100"
             }
         ]
     }
