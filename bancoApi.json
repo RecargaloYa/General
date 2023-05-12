@@ -153,8 +153,8 @@
         ],
         "comprobantes": [
             {
-                "tipo": "APP",
-                "img": "https://placehold.it/100x100"
+                "tipo": "Cajero",
+                "img": "https://recargaloya.com/bancos/binance-1.png"
             }
         ]
     }
