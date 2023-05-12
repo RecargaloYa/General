@@ -2,7 +2,7 @@
     {
         "slug": "banco-pichincha",
         "activo": "SI",
-        "icono":"https://placehold.it/100x100",
+        "icono":"https://recargaloya.com/bancos/img-pichincha.png",
         "titulo": "Banco Pichincha",
         "cuentas": [
             {
@@ -25,7 +25,7 @@
     {
         "slug": "banco-guayaquil",
         "activo": "SI",
-        "icono":"https://placehold.it/100x100",
+        "icono":"https://recargaloya.com/bancos/img-gua.png",
         "titulo": "Banco Guayaquil",
         "cuentas": [
             {
@@ -48,7 +48,7 @@
     {
         "slug": "produbanco",
         "activo": "SI",
-        "icono":"https://placehold.it/100x100",
+        "icono":"https://recargaloya.com/bancos/img-produb.png",
         "titulo": "Produbanco",
         "cuentas": [
             {
@@ -71,7 +71,7 @@
     {
         "slug": "banco-pacifico",
         "activo": "SI",
-        "icono":"https://placehold.it/100x100",
+        "icono":"https://recargaloya.com/bancos/img-pacifico.png",
         "titulo": "Banco del Pacífico",
         "cuentas": [
             {
