@@ -12,7 +12,7 @@
                 "numeroC": "2100284606",
                 "id": "0993376696001",
                 "correo": "ventas@recargaloya.com",
-                "qr": "https://placehold.it/100x100"
+                "qr": ""
             }
         ],
         "comprobantes": [
@@ -35,7 +35,7 @@
                 "numeroC": "19031955",
                 "id": "0993376696001",
                 "correo": "ventas@recargaloya.com",
-                "qr": "https://placehold.it/100x100"
+                "qr": ""
             }
         ],
         "comprobantes": [
@@ -58,7 +58,7 @@
                 "numeroC": "12006838771",
                 "id": "0993376696001",
                 "correo": "ventas@recargaloya.com",
-                "qr": "https://placehold.it/100x100"
+                "qr": ""
             }
         ],
         "comprobantes": [
@@ -81,7 +81,30 @@
                 "numeroC": "1064286584",
                 "id": "0993376696001",
                 "correo": "ventas@recargaloya.com",
-                "qr": "https://placehold.it/100x100"
+                "qr": ""
+            }
+        ],
+        "comprobantes": [
+            {
+                "tipo": "Cajero",
+                "img": "https://placehold.it/100x100"
+            }
+        ]
+    },
+    {
+        "slug": "binance-pay",
+        "activo": "SI",
+        "icono":"https://recargaloya.com/bancos/binancepay.png",
+        "titulo": "Binance Pay",
+        "cuentas": [
+            {
+                "activo": "NO",
+                "titular": "FASTERY-DEV S.A.S.",
+                "tipo": "Ahorro",
+                "numeroC": "1064286584",
+                "id": "0993376696001",
+                "correo": "ventas@recargaloya.com",
+                "qr": "https://recargaloya.com/bancos/binanceqr.png"
             }
         ],
         "comprobantes": [
