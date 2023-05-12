@@ -17,8 +17,8 @@
         ],
         "comprobantes": [
             {
-                "tipo": "Cajero",
-                "img": "https://placehold.it/100x100"
+                "tipo": "Transferencia",
+                "img": "https://recargaloya.com/bancos/pichincha-1.png"
             }
         ]
     },
@@ -87,7 +87,7 @@
         "comprobantes": [
             {
                 "tipo": "Cajero",
-                "img": "https://placehold.it/100x100"
+                "img": "https://recargaloya.com/bancos/pacifico-2.png"
             }
         ]
     },
@@ -109,7 +109,7 @@
         ],
         "comprobantes": [
             {
-                "tipo": "Cajero",
+                "tipo": "APP",
                 "img": "https://placehold.it/100x100"
             }
         ]
