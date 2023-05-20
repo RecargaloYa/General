@@ -2,7 +2,7 @@
     {
         "slug": "banco-pichincha",
         "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/img-pichincha.png",
+        "icono":"https://recargaloya.com/bancos/banco-pichincha/logo.png",
         "titulo": "Banco Pichincha",
         "cuentas": [
             {
@@ -18,26 +18,26 @@
         "comprobantes": [
             {
                 "tipo": "Transferencia",
-                "img": "https://recargaloya.com/bancos/pichincha-1.png"
+                "img": "https://recargaloya.com/bancos/banco-pichincha/1.png"
             },
             {
                 "tipo": "Mi Vecino",
-                "img": "https://recargaloya.com/bancos/pichincha-2.png"
+                "img": "https://recargaloya.com/bancos/banco-pichincha/2.png"
             },
             {
-                "tipo": "Depósito",
-                "img": "https://recargaloya.com/bancos/pichincha-3.png"
+                "tipo": "Portal Web",
+                "img": "https://recargaloya.com/bancos/banco-pichincha/3.png"
             },
             {
-                "tipo": "Depósito",
-                "img": "https://recargaloya.com/bancos/pichincha-4.png"
+                "tipo": "Deuna",
+                "img": "https://recargaloya.com/bancos/banco-pichincha/4.png"
             }
         ]
     },
     {
         "slug": "banco-guayaquil",
         "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/img-gua.png",
+        "icono":"https://recargaloya.com/bancos/banco-guayaquil/logo.png",
         "titulo": "Banco Guayaquil",
         "cuentas": [
             {
@@ -52,23 +52,19 @@
         ],
         "comprobantes": [
             {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/guayaquil-1.png"
+                "tipo": "Transferencia",
+                "img": "https://recargaloya.com/bancos/banco-guayaquil/1.png"
             },
             {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/guayaquil-2.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/guayaquil-3.png"
+                "tipo": "Deposito",
+                "img": "https://recargaloya.com/bancos/banco-guayaquil/2.png"
             }
         ]
     },
     {
         "slug": "produbanco",
         "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/img-produb.png",
+        "icono":"https://recargaloya.com/bancos/produbanco/logo.png",
         "titulo": "Produbanco",
         "cuentas": [
             {
@@ -83,23 +79,15 @@
         ],
         "comprobantes": [
             {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/produbanco-1.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/produbanco-2.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/produbanco-3.png"
+                "tipo": "BeProdubanco",
+                "img": "https://recargaloya.com/bancos/produbanco/1.png"
             }
         ]
     },
     {
         "slug": "banco-pacifico",
         "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/b-paco.png",
+        "icono":"https://recargaloya.com/bancos/banco-del-pacifico/logo.png",
         "titulo": "Banco del Pacífico",
         "cuentas": [
             {
@@ -114,31 +102,19 @@
         ],
         "comprobantes": [
             {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/pacifico-1.png"
+                "tipo": "App",
+                "img": "https://recargaloya.com/bancos/banco-del-pacifico/logo.png"
             },
             {
                 "tipo": "Cajero",
                 "img": "https://recargaloya.com/bancos/pacifico-2.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/pacifico-3.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/pacifico-4.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/pacifico-5.png"
             }
         ]
     },
     {
         "slug": "binance-pay",
         "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/binancepay.png",
+        "icono":"https://recargaloya.com/bancos/binance/logo.png",
         "titulo": "Binance Pay",
         "cuentas": [
             {
@@ -148,13 +124,13 @@
                 "numeroC": "1064286584",
                 "id": "0993376696001",
                 "correo": "ventas@recargaloya.com",
-                "qr": "https://recargaloya.com/bancos/binanceqr.png"
+                "qr": "https://recargaloya.com/bancos/binance/qr.png"
             }
         ],
         "comprobantes": [
             {
                 "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/binance-1.png"
+                "img": "https://recargaloya.com/bancos/binance/1.png"
             }
         ]
     }
