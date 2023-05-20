@@ -103,11 +103,11 @@
         "comprobantes": [
             {
                 "tipo": "App",
-                "img": "https://recargaloya.com/bancos/banco-del-pacifico/logo.png"
+                "img": "https://recargaloya.com/bancos/banco-del-pacifico/1.png"
             },
             {
                 "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/pacifico-2.png"
+                "img": "https://recargaloya.com/bancos/banco-del-pacifico/2.png"
             }
         ]
     },
