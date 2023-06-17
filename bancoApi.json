@@ -1,137 +1,197 @@
-[
-    {
-        "slug": "banco-pichincha",
-        "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/banco-pichincha/logo.png",
-        "titulo": "Banco Pichincha",
-        "cuentas": [
-            {
-                "activo": "SI",
-                "titular": "FASTERY-DEV S.A.S.",
-                "tipo": "Corriente",
-                "numeroC": "2100284606",
-                "id": "0993376696001",
-                "correo": "ventas@recargaloya.com",
-                "qr": ""
+{
+    "data": [
+        {
+            "id": 3,
+            "attributes": {
+                "createdAt": "2023-05-27T21:25:29.681Z",
+                "updatedAt": "2023-06-02T15:00:26.378Z",
+                "publishedAt": "2023-06-01T03:39:43.787Z",
+                "slug": "banco-pichincha",
+                "status": true,
+                "title": "Banco Pichincha",
+                "bank_accounts": [
+                    {
+                        "status": true,
+                        "titular": "FASTERY-DEV S.A.S.",
+                        "tipo": "Corriente",
+                        "numeroC": "2100284606",
+                        "id": "0993376696001",
+                        "correo": "ventas@recargaloya.com",
+                        "qr": ""
+                    }
+                ],
+                "icon": "https://rep.recargaloya.app/uploads/pichincha_3db85b19ae.png",
+                "vouchers": [
+                    {
+                        "tipo": "Transferencia",
+                        "img": "https://recargaloya.com/bancos/banco-pichincha/1.png"
+                    },
+                    {
+                        "tipo": "Mi Vecino",
+                        "img": "https://recargaloya.com/bancos/banco-pichincha/2.png"
+                    },
+                    {
+                        "tipo": "Portal Web",
+                        "img": "https://recargaloya.com/bancos/banco-pichincha/3.png"
+                    },
+                    {
+                        "tipo": "Deuna",
+                        "img": "https://recargaloya.com/bancos/banco-pichincha/4.png"
+                    }
+                ]
             }
-        ],
-        "comprobantes": [
-            {
-                "tipo": "Transferencia",
-                "img": "https://recargaloya.com/bancos/banco-pichincha/1.png"
-            },
-            {
-                "tipo": "Mi Vecino",
-                "img": "https://recargaloya.com/bancos/banco-pichincha/2.png"
-            },
-            {
-                "tipo": "Portal Web",
-                "img": "https://recargaloya.com/bancos/banco-pichincha/3.png"
-            },
-            {
-                "tipo": "Deuna",
-                "img": "https://recargaloya.com/bancos/banco-pichincha/4.png"
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "createdAt": "2023-05-27T23:12:11.843Z",
+                "updatedAt": "2023-06-01T15:54:51.497Z",
+                "publishedAt": "2023-06-01T15:54:51.491Z",
+                "slug": "banco-guayaquil",
+                "status": true,
+                "title": "Banco Guayaquil",
+                "bank_accounts": [
+                    {
+                        "status": true,
+                        "titular": "FASTERY-DEV S.A.S.",
+                        "tipo": "Ahorro",
+                        "numeroC": "19031955",
+                        "id": "0993376696001",
+                        "correo": "ventas@recargaloya.com",
+                        "qr": ""
+                    }
+                ],
+                "icon": "https://rep.recargaloya.app/uploads/guayaquil_4ba820cd11.png",
+                "vouchers": [
+                    {
+                        "tipo": "Transferencia",
+                        "img": "https://recargaloya.com/bancos/banco-guayaquil/1.png"
+                    },
+                    {
+                        "tipo": "Deposito",
+                        "img": "https://recargaloya.com/bancos/banco-guayaquil/2.png"
+                    }
+                ]
             }
-        ]
-    },
-    {
-        "slug": "banco-guayaquil",
-        "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/banco-guayaquil/logo.png",
-        "titulo": "Banco Guayaquil",
-        "cuentas": [
-            {
-                "activo": "SI",
-                "titular": "FASTERY-DEV S.A.S.",
-                "tipo": "Ahorro",
-                "numeroC": "19031955",
-                "id": "0993376696001",
-                "correo": "ventas@recargaloya.com",
-                "qr": ""
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "createdAt": "2023-06-01T03:42:55.285Z",
+                "updatedAt": "2023-06-01T18:22:19.719Z",
+                "publishedAt": "2023-06-01T15:54:54.682Z",
+                "slug": "produbanco",
+                "status": true,
+                "title": "Produbanco",
+                "bank_accounts": [
+                    {
+                        "status": true,
+                        "titular": "FASTERY-DEV S.A.S.",
+                        "tipo": "Ahorro",
+                        "numeroC": "12006838771",
+                        "id": "0993376696001",
+                        "correo": "ventas@recargaloya.com",
+                        "qr": ""
+                    }
+                ],
+                "icon": "https://rep.recargaloya.app/uploads/produbanco_8503e36034.png",
+                "vouchers": [
+                    {
+                        "tipo": "BeProdubanco",
+                        "img": "https://recargaloya.com/bancos/produbanco/1.png"
+                    },
+                    {
+                        "tipo": "Deposito",
+                        "img": "https://recargaloya.com/bancos/produbanco/2.png"
+                    },
+                    {
+                        "tipo": "Deposito",
+                        "img": "https://recargaloya.com/bancos/produbanco/3.png"
+                    },
+                    {
+                        "tipo": "Deposito",
+                        "img": "https://recargaloya.com/bancos/produbanco/4.png"
+                    }
+                ]
             }
-        ],
-        "comprobantes": [
-            {
-                "tipo": "Transferencia",
-                "img": "https://recargaloya.com/bancos/banco-guayaquil/1.png"
-            },
-            {
-                "tipo": "Deposito",
-                "img": "https://recargaloya.com/bancos/banco-guayaquil/2.png"
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "createdAt": "2023-06-01T03:43:39.850Z",
+                "updatedAt": "2023-06-01T18:27:11.434Z",
+                "publishedAt": "2023-06-01T15:54:57.751Z",
+                "slug": "banco-pacifico",
+                "status": true,
+                "title": "Banco del Pacífico",
+                "bank_accounts": [
+                    {
+                        "status": true,
+                        "titular": "FASTERY-DEV S.A.S.",
+                        "tipo": "Ahorro",
+                        "numeroC": "1064286584",
+                        "id": "0993376696001",
+                        "correo": "ventas@recargaloya.com",
+                        "qr": ""
+                    }
+                ],
+                "icon": "https://rep.recargaloya.app/uploads/pacifico_ded76055dc.png",
+                "vouchers": [
+                    {
+                        "tipo": "App",
+                        "img": "https://recargaloya.com/bancos/banco-del-pacifico/1.png"
+                    },
+                    {
+                        "tipo": "Deposito",
+                        "img": "https://recargaloya.com/bancos/banco-del-pacifico/2.png"
+                    },
+                    {
+                        "tipo": "Transferencia",
+                        "img": "https://recargaloya.com/bancos/banco-del-pacifico/3.png"
+                    },
+                    {
+                        "tipo": "Cajero",
+                        "img": "https://recargaloya.com/bancos/banco-del-pacifico/4.png"
+                    }
+                ]
             }
-        ]
-    },
-    {
-        "slug": "produbanco",
-        "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/produbanco/logo.png",
-        "titulo": "Produbanco",
-        "cuentas": [
-            {
-                "activo": "SI",
-                "titular": "FASTERY-DEV S.A.S.",
-                "tipo": "Ahorro",
-                "numeroC": "12006838771",
-                "id": "0993376696001",
-                "correo": "ventas@recargaloya.com",
-                "qr": ""
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "createdAt": "2023-06-01T03:44:17.849Z",
+                "updatedAt": "2023-06-01T15:55:00.961Z",
+                "publishedAt": "2023-06-01T15:55:00.958Z",
+                "slug": "binance-pay",
+                "status": true,
+                "title": "binance-pay",
+                "bank_accounts": [
+                    {
+                        "status": true,
+                        "titular": "FASTERY-DEV S.A.S.",
+                        "tipo": "Ahorro",
+                        "numeroC": "1064286584",
+                        "id": "0993376696001",
+                        "correo": "ventas@recargaloya.com",
+                        "qr": "https://recargaloya.com/bancos/binance/qr.png"
+                    }
+                ],
+                "icon": "https://rep.recargaloya.app/uploads/binancepay_cf7f75a4c9.png",
+                "vouchers": [
+                    {
+                        "tipo": "Cajero",
+                        "img": "https://recargaloya.com/bancos/binance/1.png"
+                    }
+                ]
             }
-        ],
-        "comprobantes": [
-            {
-                "tipo": "BeProdubanco",
-                "img": "https://recargaloya.com/bancos/produbanco/1.png"
-            }
-        ]
-    },
-    {
-        "slug": "banco-pacifico",
-        "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/banco-del-pacifico/logo.png",
-        "titulo": "Banco del Pacífico",
-        "cuentas": [
-            {
-                "activo": "SI",
-                "titular": "FASTERY-DEV S.A.S.",
-                "tipo": "Ahorro",
-                "numeroC": "1064286584",
-                "id": "0993376696001",
-                "correo": "ventas@recargaloya.com",
-                "qr": ""
-            }
-        ],
-        "comprobantes": [
-            {
-                "tipo": "App",
-                "img": "https://recargaloya.com/bancos/banco-del-pacifico/1.png"
-            },
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/banco-del-pacifico/2.png"
-            }
-        ]
-    },
-    {
-        "slug": "binance-pay",
-        "activo": "SI",
-        "icono":"https://recargaloya.com/bancos/binance/logo.png",
-        "titulo": "Binance Pay",
-        "cuentas": [
-            {
-                "activo": "NO",
-                "titular": "FASTERY-DEV S.A.S.",
-                "tipo": "Ahorro",
-                "numeroC": "1064286584",
-                "id": "0993376696001",
-                "correo": "ventas@recargaloya.com",
-                "qr": "https://recargaloya.com/bancos/binance/qr.png"
-            }
-        ],
-        "comprobantes": [
-            {
-                "tipo": "Cajero",
-                "img": "https://recargaloya.com/bancos/binance/1.png"
-            }
-        ]
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
     }
-]
+}
