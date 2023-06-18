@@ -376,7 +376,7 @@
         [
                 [   
                     {
-                        "titulo": "1.- ¿Cómo instalar MAGISTV en Android?"
+                        "titulo": "¿Cómo instalar MAGISTV en Android?"
                     },
                     [
                         {
@@ -395,7 +395,7 @@
                 ],
                 [   
                     {
-                        "titulo": "2.- ¿Cómo instalar MAGISTV en el Televisor?"
+                        "titulo": "¿Cómo instalar MAGISTV en el Televisor?"
                     },
                     [
                         {
@@ -421,7 +421,7 @@
         [
                 [   
                     {
-                        "titulo": "1.- Pasos para pagar un Servicio Básico:"
+                        "titulo": "Pasos para pagar un Servicio Básico:"
                     },
                     [
                         {
@@ -455,7 +455,7 @@
         [
                 [   
                     {
-                        "titulo": "1.- Pasos para imprimir comprobante de pago:",
+                        "titulo": "Pasos para imprimir comprobante de pago:",
                         "nota":"En RECARGALOYA.COM no ofrece soporte para la instalación de impresoras, ni tampoco vende ni distribuimos estos dispositivos.*"
                     },
                     [
@@ -490,7 +490,7 @@
                     ]
                 ]
         ],
-        "titulopF": "2.- Preguntas frecuentes:",
+        "titulopF": "Preguntas frecuentes:",
         "preguntasF":[
             {
                 "titulo":"¿Cómo cambio el nombre comercial del comprobante de pago?",
@@ -505,7 +505,7 @@
         [
             [   
                 {
-                    "titulo": "1.- Pasos para realizar un giro nacional:"
+                    "titulo": "Pasos para realizar un giro nacional:"
                 },
                 [
                     {
@@ -523,20 +523,7 @@
                 ]
             ]
     ],
-       
-        "titulohorario": "Horario de servicio:",
-        "horas":[
-            {
-                "lunesaviernes": "8:30 a 20:00"
-            },
-            {
-                "finesdesemana": "8:30 - 14:30"
-            },
-            {
-                "feriado": "No se labora"
-            }
-        ],
-        "titulopF": "3.- Preguntas frecuentes:",
+        "titulopF": "Preguntas frecuentes:",
         "preguntasF":[
             {
                 "titulo":"¿Qué es un giro nacional?",
