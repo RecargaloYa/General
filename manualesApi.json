@@ -173,7 +173,7 @@
         [
                 [   
                     {
-                        "titulo": "1.- Pasos para obtener comisiones:"
+                        "titulo": "Pasos para obtener comisiones:"
                     },
                     [
                         {
@@ -188,12 +188,12 @@
                 ],
                 [   
                     {
-                        "titulo": "2.- ¿Cómo usar las comisiones?"
+                        "titulo": "¿Cómo usar las comisiones?"
                     },
                     [
                         {
                             "descripcion": "Contactar con soporte y solicitar la transferencia de comisiones a la billetera de caja.",
-                            "imagen": "/home/regis1.png"
+                            "imagen": "/home/regis1.webp"
                         },
                         {
                             "descripcion": "Soporte transferirá las comisiones a la billetera de caja. (Mínimo para transferir $3.00)",
