@@ -72,12 +72,12 @@
         [
                 [   
                     {
-                        "titulo": "1.- Pasos para vender UC de PUBG MOBILE:",
+                        "titulo": "Pasos para vender UC de PUBG MOBILE:",
                         "nota": "El cliente recibira los UC en aproximadamente 60 minutos.*"
                     },
                     [
                         {
-                            "descripcion": "Selecciona el servicio que deseas vender haciendo clic en él.",
+                            "descripcion": "Selecciona el servicio que deseas vender.",
                             "imagen": "/manual/pubgm1.png"
                         },
                         {
@@ -85,11 +85,11 @@
                             "imagen": "/manual/pubgm2.png"
                         },
                         {
-                            "descripcion": "Haz clic en el botón 'Vender'.",
+                            "descripcion": "Hacer clic en el botón 'Vender'.",
                             "imagen": "/manual/pubgm3.png"
                         },
                         {
-                            "descripcion": "Haz clic en el botón 'Ver detalles'.",
+                            "descripcion": "Hacer clic en el botón 'Ver detalles'.",
                             "imagen": "/manual/freefire4.png"
                         },
                         {
@@ -100,19 +100,7 @@
                 ]
                 
         ],
-        "titulohorario": "2.- Horario de servicio:",
-        "horas":[
-            {
-                "lunesaviernes": "8:30 a 20:00"
-            },
-            {
-                "finesdesemana": "8:30 - 14:30"
-            },
-            {
-                "feriado": "No se labora"
-            }
-        ],
-        "titulopF": "3.- Preguntas frecuentes:",
+        "titulopF": "Preguntas frecuentes:",
         "preguntasF":[
             {
                 "titulo": "¿Dónde sé en cuenta el ID de PUBG MOBILE?",
