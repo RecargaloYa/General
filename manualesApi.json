@@ -166,34 +166,6 @@
         "notapf":"Consulta con soporte si tienes alguna duda."
     },
     {
-        "slug": "cambiar-contra",
-        "title": "Cambiar Contraseña",
-        "pasos":
-        [
-                [   
-                    {
-                        "titulo": "1.- Pasos para cambiar la contraseña:"
-                    },
-                    [
-                        {
-                            "descripcion": "Ingresar a https://app.recargaloya.com/forgot-password",
-                            "imagen": "/manual/resetpass1.png"
-                        },
-                        {
-                            "descripcion": "Verificar la bandeja de entrada y restablecer contraseña.",
-                            "imagen": "/manual/resetpass2.png"
-                        },
-                        {
-                            "descripcion": "Ingresa la nueva contraseña y cambiar la contraseña.",
-                            "imagen": "/manual/resetpass3.png"
-                        }
-                    ]
-                ]
-                
-        ],
-        "nota1": "En caso de tener la cuenta bloqueada contactar con soporte.*"
-    },
-    {
         "slug": "comisiones",
         "title": "Comisiones",
         "description": "RECARGALOYA.COM ofrece comisiones al punto de venta por cada orden que se complete exitosamente, lo que demuestra nuestro compromiso en brindar una experiencia satisfactoria tanto para nuestros clientes.*",
