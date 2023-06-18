@@ -256,7 +256,7 @@
                 ],
                 [   
                     {
-                        "titulo": "2.- Política de RECARGALOYA y MAGISTV:",
+                        "titulo": "Política de RECARGALOYA y MAGISTV:",
                         "nota": "En caso de incumplimiento, su cuenta de RECARGALOYA.COM será bloqueada permanentemente.*"
                     },
                    [ {
@@ -287,18 +287,6 @@
                     
                 ]
         ],
-        "titulohorario": "2.- Horario de servicio:",
-        "horas":[
-            {
-                "lunesaviernes": "8:30 a 20:00"
-            },
-            {
-                "finesdesemana": "8:30 - 14:30"
-            },
-            {
-                "feriado": "No se labora"
-            }
-        ],
         "notahorario":"Consulta con soporte si tienes alguna duda."
     },
     {
@@ -308,7 +296,7 @@
         [
                 [   
                     {
-                        "titulo": "1.- Pasos para vender Credito de MAGISTV (Distribuidor de MAGISTV):",
+                        "titulo": "Pasos para vender Credito de MAGISTV (Distribuidor de MAGISTV):",
                         "nota": "El cliente recibira la cuenta en aproximadamente 60 minutos.*"
                     },
                     [
@@ -366,19 +354,7 @@
                     ]
                 ]
         ],
-        "titulohorario": "2.- Horario de servicio:",
-        "horas":[
-            {
-                "lunesaviernes": "8:30 a 20:00"
-            },
-            {
-                "finesdesemana": "8:30 - 14:30"
-            },
-            {
-                "feriado": "No se labora"
-            }
-        ],
-        "titulopF": "3.- Preguntas frecuentes:",
+        "titulopF": "Preguntas frecuentes:",
         "preguntasF":[
             {
                 "titulo":"¿Cómo usar Credito de MAGISTV?",
