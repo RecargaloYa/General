@@ -1,25 +1,12 @@
  [
         {
             "service": "Free Fire",
-            "commissionpdv": "5%",
-            "commissiondist": "5%"
+            "commissionpdv": "3%",
+            "commissiondist": "1%"
         },
         {
-            "service": "Free Fire",
-            "commissionpdv": "5%",
-            "commissiondist": "5%"
-        },
-        {
-            "service": "Free Fire",
-            "commissionpdv": "5%",
-            "commissiondist": "5%"
-        },
-        {
-            "service": "Free Fire",
-            "commissionpdv": "5%",
-            "commissiondist": "5%"
+            "service": "PUBG MOBILE",
+            "commissionpdv": "0.23 USD",
+            "commissiondist": "0.03 USD"
         }
-       
-    
-    
-    ]
+]
