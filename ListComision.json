@@ -8,5 +8,10 @@
             "service": "PUBG MOBILE",
             "commissionpdv": "0.23 USD",
             "commissiondist": "0.03 USD"
+        },
+        {
+            "service": "Mobile Legends: Bang Bang",
+            "commissionpdv": "0.23 USD",
+            "commissiondist": "0.03 USD"
         }
 ]
