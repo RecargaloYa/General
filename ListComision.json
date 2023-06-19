@@ -1,29 +1,25 @@
-[
-    {
-        "id": 1,
-        "service": "Free Fire",
-        "commissionpdv": "5%",
-        "commissiondist": "5%"
-    },
-    {
-        "id": 1,
-        "service": "Free Fire",
-        "commissionpdv": "5%",
-        "commissiondist": "5%"
-    },
-    {
-        "id": 1,
-        "service": "Free Fire",
-        "commissionpdv": "5%",
-        "commissiondist": "5%"
-    },
-    {
-        "id": 1,
-        "service": "Free Fire",
-        "commissionpdv": "5%",
-        "commissiondist": "5%"
-    }
-   
-
-
-]
+ [
+        {
+            "service": "Free Fire",
+            "commissionpdv": "5%",
+            "commissiondist": "5%"
+        },
+        {
+            "service": "Free Fire",
+            "commissionpdv": "5%",
+            "commissiondist": "5%"
+        },
+        {
+            "service": "Free Fire",
+            "commissionpdv": "5%",
+            "commissiondist": "5%"
+        },
+        {
+            "service": "Free Fire",
+            "commissionpdv": "5%",
+            "commissiondist": "5%"
+        }
+       
+    
+    
+    ]
