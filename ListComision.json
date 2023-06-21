@@ -26,5 +26,23 @@
             "commissionpdv": "0.23 USD",
             "commissiondist": "0.03 USD",
             "img":"/services/mobile-lengnd.webp"
+        },
+        {
+            "service": "Asphalt 9",
+            "commissionpdv": "0.00",
+            "commissiondist": "0.00",
+            "img":"/services/asphalt.webp"
+        },
+        {
+            "service": "Clash Royale",
+            "commissionpdv": "0.00",
+            "commissiondist": "0.00",
+            "img":"/services/clash-royal.webp"
+        },
+        {
+            "service": "Clash of Clans",
+            "commissionpdv": "0.00",
+            "commissiondist": "0.00",
+            "img":"/services/clash-of-clans.webp"
         }
 ]
