@@ -44,5 +44,11 @@
             "commissionpdv": "0.00",
             "commissiondist": "0.00",
             "img":"/services/clash-of-clans.webp"
+        },
+        {
+            "service": "Brawl Stars",
+            "commissionpdv": "0.00",
+            "commissiondist": "0.00",
+            "img":"/services/brawl-stars.webp"
         }
 ]
