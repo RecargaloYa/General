@@ -12,7 +12,8 @@
         {
             "service": "Free Fire",
             "commissionpdv": "3%",
-            "commissiondist": "1%"
+            "commissiondist": "1%",
+            "img":"/services/free-fire.webp"
         },
         {
             "service": "PUBG MOBILE",
