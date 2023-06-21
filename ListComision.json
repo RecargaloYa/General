@@ -12,6 +12,18 @@
             "img":"/services/movistar.webp"
         },
         {
+            "service": "TUENTI",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/tuenti.webp"
+        },
+        {
+            "service": "CNT",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/cnt.webp"
+        },
+        {
             "service": "Servicio básico",
             "commissionpdv": "0.12 USD",
             "commissiondist": "0.13 USD",
