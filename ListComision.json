@@ -2,12 +2,14 @@
         {
             "service": "CLARO",
             "commissionpdv": "5%",
-            "commissiondist": "1%"
+            "commissiondist": "1%",
+            "img":"/services/claro.webp"
         },
         {
             "service": "MOVISTAR",
             "commissionpdv": "5%",
-            "commissiondist": "1%"
+            "commissiondist": "1%",
+            "img":"/services/movistar.webp"
         },
         {
             "service": "Servicio básico",
