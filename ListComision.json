@@ -10,6 +10,12 @@
             "commissiondist": "1%"
         },
         {
+            "service": "Servicio básico",
+            "commissionpdv": "0.12 USD",
+            "commissiondist": "0.13 USD",
+            "img":"/services/servicio-basico.webp"
+        },
+        {
             "service": "Free Fire",
             "commissionpdv": "3%",
             "commissiondist": "1%",
@@ -50,5 +56,11 @@
             "commissionpdv": "0.00",
             "commissiondist": "0.00",
             "img":"/services/brawl-stars.webp"
+        },
+        {
+            "service": "Tarjetas/Pines",
+            "commissionpdv": "0.00",
+            "commissiondist": "0.00",
+            "img":"/services/pines.webp"
         }
 ]
