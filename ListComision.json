@@ -24,10 +24,70 @@
             "img":"/services/cnt.webp"
         },
         {
+            "service": "CNT TV",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/cnttv.webp"
+        },
+        {
+            "service": "DirecTV",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/cnttv.webp"
+        },
+        {
+            "service": "MAXIPLUS",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/cnttv.webp"
+        },
+        {
+            "service": "AKIMOVIL",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/cnttv.webp"
+        },
+        {
+            "service": "Giros Nacionales",
+            "commissionpdv": "5%",
+            "commissiondist": "1%",
+            "img":"/services/cnttv.webp"
+        },
+        {
             "service": "Servicio básico",
             "commissionpdv": "0.12 USD",
             "commissiondist": "0.13 USD",
             "img":"/services/servicio-basico.webp"
+        },
+        {
+            "service": "MAGISTV Crédito",
+            "commissionpdv": "0.12 USD",
+            "commissiondist": "0.13 USD",
+            "img":"/services/servicio-basico.webp"
+        },
+        {
+            "service": "MAGISTV Cuenta",
+            "commissionpdv": "0.12 USD",
+            "commissiondist": "0.13 USD",
+            "img":"/services/servicio-basico.webp"
+        },
+        {
+            "service": "Ecuabet",
+            "commissionpdv": "0.12 USD",
+            "commissiondist": "0.13 USD",
+            "img":"/services/servicio-basico.webp"
+        },
+        {
+            "service": "Trebalia",
+            "commissionpdv": "3%",
+            "commissiondist": "1%",
+            "img":"/services/free-fire.webp"
+        },
+        {
+            "service": "Betcris",
+            "commissionpdv": "3%",
+            "commissiondist": "1%",
+            "img":"/services/free-fire.webp"
         },
         {
             "service": "Free Fire",
