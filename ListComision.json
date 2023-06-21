@@ -1,5 +1,15 @@
  [
         {
+            "service": "CLARO",
+            "commissionpdv": "5%",
+            "commissiondist": "1%"
+        },
+        {
+            "service": "MOVISTAR",
+            "commissionpdv": "5%",
+            "commissiondist": "1%"
+        },
+        {
             "service": "Free Fire",
             "commissionpdv": "3%",
             "commissiondist": "1%"
