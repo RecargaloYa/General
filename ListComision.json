@@ -7,8 +7,8 @@
         },
         {
             "service": "MOVISTAR",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
+            "commissionpdv": "4.5%",
+            "commissiondist": "0.5%",
             "img":"/services/movistar.webp"
         },
         {
