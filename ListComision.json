@@ -3,7 +3,8 @@
             "service": "CLARO",
             "commissionpdv": "5%",
             "commissiondist": "1%",
-            "img":"/services/claro.webp"
+            "img":"/services/claro.webp",
+            "status":"active"
         },
         {
             "service": "MOVISTAR",
