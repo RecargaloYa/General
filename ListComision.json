@@ -33,9 +33,10 @@
         },
         {
             "service": "DirecTV",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
-            "img":"/services/cnttv.webp"
+            "commissionpdv": "4%",
+            "commissiondist": "0.5%",
+            "img":"/services/directv.webp",
+            "status":"active"
         },
         {
             "service": "MAXIPLUS",
