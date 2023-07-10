@@ -23,22 +23,29 @@
         {
             "service": "CNT",
             "commissionpdv": "6%",
-            "commissiondist": "0.50%",
+            "commissiondist": "1%",
             "img":"/services/cnt.webp",
             "status":"active"
         },
         {
             "service": "CNT TV",
-            "commissionpdv": "4.50%",
+            "commissionpdv": "4.5%",
             "commissiondist": "0.50%",
             "img":"/services/cnttv.webp",
             "status":"active"
         },
         {
-            "service": "DirecTV",
+            "service": "DIREC TV",
             "commissionpdv": "4%",
             "commissiondist": "0.5%",
             "img":"/services/directv.webp",
+            "status":"active"
+        },
+        {
+            "service": "TV CABLE",
+            "commissionpdv": "4.5%",
+            "commissiondist": "0.5%",
+            "img":"/services/tvcable.webp",
             "status":"active"
         },
         {
