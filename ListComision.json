@@ -29,7 +29,7 @@
         {
             "service": "CNT TV",
             "commissionpdv": "5%",
-            "commissiondist": "1%",
+            "commissiondist": "0.50%",
             "img":"/services/cnttv.webp"
         },
         {
