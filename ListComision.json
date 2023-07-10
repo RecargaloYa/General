@@ -49,8 +49,7 @@
         },
         {
             "service": "Giros Nacionales",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
+            "commissiontrans": "USD 0.35",
             "img":"/services/cnttv.webp"
         },
         {
