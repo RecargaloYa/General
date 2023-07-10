@@ -22,15 +22,17 @@
         },
         {
             "service": "CNT",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
-            "img":"/services/cnt.webp"
+            "commissionpdv": "6%",
+            "commissiondist": "0.50%",
+            "img":"/services/cnt.webp",
+            "status":"active"
         },
         {
             "service": "CNT TV",
             "commissionpdv": "4.50%",
             "commissiondist": "0.50%",
-            "img":"/services/cnttv.webp"
+            "img":"/services/cnttv.webp",
+            "status":"active"
         },
         {
             "service": "DirecTV",
