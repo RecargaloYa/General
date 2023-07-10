@@ -15,9 +15,10 @@
         },
         {
             "service": "TUENTI",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
-            "img":"/services/tuenti.webp"
+            "commissionpdv": "4.5%",
+            "commissiondist": "0.5%",
+            "img":"/services/tuenti.webp",
+            "status":"active"
         },
         {
             "service": "CNT",
