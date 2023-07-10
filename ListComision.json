@@ -10,7 +10,8 @@
             "service": "MOVISTAR",
             "commissionpdv": "4.5%",
             "commissiondist": "0.5%",
-            "img":"/services/movistar.webp"
+            "img":"/services/movistar.webp",
+            "status":"active"
         },
         {
             "service": "TUENTI",
