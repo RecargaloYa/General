@@ -58,7 +58,7 @@
         },
         {
             "service": "Servicio básico",
-            "commissionpdv": "0.12 USD",
+            "commissionpdv": "USD 0.12",
             "img":"/services/servicio-basico.webp"
         },
         {
@@ -88,8 +88,7 @@
         },
         {
             "service": "Free Fire",
-            "commissionpdv": "null",
-            "commissiondist": "1%",
+            "commissionpdv": "USD 0.10",
             "img":"/services/free-fire.webp"
         },
         {
