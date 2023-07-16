@@ -98,13 +98,15 @@
         },
         {
             "service": "PUBG MOBILE",
-            "commissionpdv": "null",
-            "img":"/services/pubg-mobile.webp"
+            "commissionpdv": "USD 0.23",
+            "img":"/services/pubg-mobile.webp",
+            "status":"active"
         },
         {
             "service": "Mobile Legends: Bang Bang",
-            "commissionpdv": "null",
-            "img":"/services/mobile-lengnd.webp"
+            "commissionpdv": "USD 0.23",
+            "img":"/services/mobile-lengnd.webp",
+            "status":"active"
         },
         {
             "service": "Asphalt 9",
