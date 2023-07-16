@@ -85,13 +85,9 @@
         },
         {
             "service": "Trebalia Recarga",
-            "commissionpdv": "NULL",
-            "img":"/services/free-fire.webp"
-        },
-        {
-            "service": "Betcris Recarga",
-            "commissionpdv": "NULL",
-            "img":"/services/free-fire.webp"
+            "commissionpdv": "1%",
+            "img":"/services/free-fire.webp",
+            "status":"active"
         },
         {
             "service": "Free Fire",
@@ -137,7 +133,7 @@
         },
         {
             "service": "Tarjetas/Pines",
-            "commissionpdv": "null",
+            "commissionpdv": "NULL",
             "img":"/services/pines.webp"
         }
 ]
