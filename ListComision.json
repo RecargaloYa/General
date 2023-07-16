@@ -116,18 +116,21 @@
         },
         {
             "service": "Clash Royale",
-            "commissionpdv": "null",
-            "img":"/services/clash-royal.webp"
+            "commissionpdv": "USD 0.23",
+            "img":"/services/clash-royal.webp",
+            "status":"active"
         },
         {
             "service": "Clash of Clans",
-            "commissionpdv": "null",
-            "img":"/services/clash-of-clans.webp"
+            "commissionpdv": "USD 0.23",
+            "img":"/services/clash-of-clans.webp",
+            "status":"active"
         },
         {
             "service": "Brawl Stars",
-            "commissionpdv": "null",
-            "img":"/services/brawl-stars.webp"
+            "commissionpdv": "USD 0.23",
+            "img":"/services/brawl-stars.webp",
+            "status":"active"
         },
         {
             "service": "Tarjetas/Pines",
