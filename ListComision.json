@@ -72,8 +72,9 @@
         },
         {
             "service": "MAGISTV Cuenta",
-            "commissionpdv": "null",
-            "img":"/services/servicio-basico.webp"
+            "commissionpdv": "USD 1.54 - USD 16.68",
+            "img":"/services/servicio-basico.webp",
+            "status":"active"
         },
         {
             "service": "Ecuabet Recarga",
