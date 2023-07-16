@@ -59,7 +59,8 @@
         {
             "service": "Servicio básico",
             "commissionpdv": "USD 0.12",
-            "img":"/services/servicio-basico.webp"
+            "img":"/services/servicio-basico.webp",
+            "status":"active"
         },
         {
             "service": "MAGISTV Crédito",
@@ -89,7 +90,8 @@
         {
             "service": "Free Fire",
             "commissionpdv": "USD 0.10",
-            "img":"/services/free-fire.webp"
+            "img":"/services/free-fire.webp",
+            "status":"active"
         },
         {
             "service": "PUBG MOBILE",
