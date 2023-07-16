@@ -62,7 +62,7 @@
         {
             "service": "Servicio básico",
             "commissionpdv": "USD 0.12",
-            "img":"/services/servicio-basico.webp",
+            "img":"/services/serviciobasico.webp",
             "status":"active"
         },
         {
