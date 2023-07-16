@@ -44,7 +44,7 @@
         {
             "service": "MAXIPLUS",
             "commissionpdv": "4.50%",
-            "img":"/services/cnttv.webp",
+            "img":"/services/maxiplus.webp",
             "status":"active"
         },
         {
@@ -133,7 +133,8 @@
         },
         {
             "service": "Tarjetas/Pines",
-            "commissionpdv": "NULL",
-            "img":"/services/pines.webp"
+            "commissionpdv": "USD 0.10",
+            "img":"/services/pines.webp",
+            "status":"active"
         }
 ]
