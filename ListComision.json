@@ -110,8 +110,9 @@
         },
         {
             "service": "Asphalt 9",
-            "commissionpdv": "null",
-            "img":"/services/asphalt.webp"
+            "commissionpdv": "USD 0.23",
+            "img":"/services/asphalt.webp",
+            "status":"active"
         },
         {
             "service": "Clash Royale",
