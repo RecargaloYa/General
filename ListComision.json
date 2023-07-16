@@ -2,62 +2,53 @@
         {
             "service": "CLARO",
             "commissionpdv": "5%",
-            "commissiondist": "1%",
             "img":"/services/claro.webp",
             "status":"active"
         },
         {
             "service": "MOVISTAR",
             "commissionpdv": "4.5%",
-            "commissiondist": "0.5%",
             "img":"/services/movistar.webp",
             "status":"active"
         },
         {
             "service": "TUENTI",
             "commissionpdv": "4.5%",
-            "commissiondist": "0.5%",
             "img":"/services/tuenti.webp",
             "status":"active"
         },
         {
             "service": "CNT",
             "commissionpdv": "6%",
-            "commissiondist": "1%",
             "img":"/services/cnt.webp",
             "status":"active"
         },
         {
             "service": "CNT TV",
             "commissionpdv": "4.5%",
-            "commissiondist": "0.50%",
             "img":"/services/cnttv.webp",
             "status":"active"
         },
         {
             "service": "DIREC TV",
             "commissionpdv": "4%",
-            "commissiondist": "0.5%",
             "img":"/services/directv.webp",
             "status":"active"
         },
         {
             "service": "TV CABLE",
             "commissionpdv": "4.5%",
-            "commissiondist": "0.5%",
             "img":"/services/tvcable.webp",
             "status":"active"
         },
         {
             "service": "MAXIPLUS",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
+            "commissionpdv": "4.50%",
             "img":"/services/cnttv.webp"
         },
         {
             "service": "AKIMOVIL",
-            "commissionpdv": "5%",
-            "commissiondist": "1%",
+            "commissionpdv": "4.50%",
             "img":"/services/cnttv.webp"
         },
         {
@@ -68,85 +59,72 @@
         {
             "service": "Servicio básico",
             "commissionpdv": "0.12 USD",
-            "commissiondist": "0.13 USD",
             "img":"/services/servicio-basico.webp"
         },
         {
             "service": "MAGISTV Crédito",
-            "commissionpdv": "0.12 USD",
-            "commissiondist": "0.13 USD",
+            "commissionpdv": "null",
             "img":"/services/servicio-basico.webp"
         },
         {
             "service": "MAGISTV Cuenta",
-            "commissionpdv": "0.12 USD",
-            "commissiondist": "0.13 USD",
+            "commissionpdv": "null",
             "img":"/services/servicio-basico.webp"
         },
         {
-            "service": "Ecuabet",
-            "commissionpdv": "0.12 USD",
-            "commissiondist": "0.13 USD",
+            "service": "Ecuabet Recarga",
+            "commissionpdv": "0.5%",
             "img":"/services/servicio-basico.webp"
         },
         {
             "service": "Trebalia",
-            "commissionpdv": "3%",
-            "commissiondist": "1%",
+            "commissionpdv": "null",
             "img":"/services/free-fire.webp"
         },
         {
             "service": "Betcris",
-            "commissionpdv": "3%",
-            "commissiondist": "1%",
+            "commissionpdv": "null",
             "img":"/services/free-fire.webp"
         },
         {
             "service": "Free Fire",
-            "commissionpdv": "3%",
+            "commissionpdv": "null",
             "commissiondist": "1%",
             "img":"/services/free-fire.webp"
         },
         {
             "service": "PUBG MOBILE",
-            "commissionpdv": "0.23 USD",
-            "commissiondist": "0.03 USD",
+            "commissionpdv": "null",
             "img":"/services/pubg-mobile.webp"
         },
         {
             "service": "Mobile Legends: Bang Bang",
-            "commissionpdv": "0.23 USD",
-            "commissiondist": "0.03 USD",
+            "commissionpdv": "null",
             "img":"/services/mobile-lengnd.webp"
         },
         {
             "service": "Asphalt 9",
-            "commissionpdv": "0.00",
-            "commissiondist": "0.00",
+            "commissionpdv": "null",
             "img":"/services/asphalt.webp"
         },
         {
             "service": "Clash Royale",
-            "commissionpdv": "0.00",
-            "commissiondist": "0.00",
+            "commissionpdv": "null",
             "img":"/services/clash-royal.webp"
         },
         {
             "service": "Clash of Clans",
-            "commissionpdv": "0.00",
-            "commissiondist": "0.00",
+            "commissionpdv": "null",
             "img":"/services/clash-of-clans.webp"
         },
         {
             "service": "Brawl Stars",
-            "commissionpdv": "0.00",
-            "commissiondist": "0.00",
+            "commissionpdv": "null",
             "img":"/services/brawl-stars.webp"
         },
         {
             "service": "Tarjetas/Pines",
-            "commissionpdv": "0.00",
-            "commissiondist": "0.00",
+            "commissionpdv": "null",
             "img":"/services/pines.webp"
         }
 ]
