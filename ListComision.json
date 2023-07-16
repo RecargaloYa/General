@@ -68,25 +68,25 @@
         {
             "service": "MAGISTV Crédito",
             "commissionpdv": "13% - 15%",
-            "img":"/services/servicio-basico.webp",
+            "img":"/services/magistv.webp",
             "status":"active"
         },
         {
             "service": "MAGISTV Cuenta",
             "commissionpdv": "22% - 25%",
-            "img":"/services/servicio-basico.webp",
+            "img":"/services/magistv.webp",
             "status":"active"
         },
         {
             "service": "Ecuabet Recarga",
             "commissionpdv": "0.5%",
-            "img":"/services/servicio-basico.webp",
+            "img":"/services/ecuabet.webp",
             "status":"active"
         },
         {
             "service": "Trebalia Recarga",
             "commissionpdv": "1%",
-            "img":"/services/free-fire.webp",
+            "img":"/services/trebalia.webp",
             "status":"active"
         },
         {
