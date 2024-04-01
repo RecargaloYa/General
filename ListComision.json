@@ -54,14 +54,8 @@
             "status":"active"
         },
         {
-            "service": "Giros Nacionales",
-            "commissiontrans": "USD 0.35",
-            "img":"/services/girosecuador.webp",
-            "status":"active"
-        },
-        {
             "service": "Servicio básico",
-            "commissionpdv": "USD 0.12",
+            "commissionpdv": "USD 0.11",
             "img":"/services/serviciobasico.webp",
             "status":"active"
         },
